@@ -1,0 +1,14 @@
+let counter()=
+    let c = ref 0 in
+    let fres()=
+        c:=!c+1
+        !c in
+    let raz () = c:=0 in
+    (fres, raz)
+
+let win = Dom_html.window
+let btn = Dom_html.getElementById("btn_alert")
+let alert_handler = Dom_html.handler(fun event ->
+    win##alert(Js.string "Alerte!");
+    Js_true)
+let ()=btn##.onclick:=alert_handler

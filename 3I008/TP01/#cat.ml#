@@ -1,0 +1,9 @@
+
+
+let rec f n l =
+  if n = max_int then
+    l
+  else
+    f (n+1) (n::l);;
+    
+f 0 [];;

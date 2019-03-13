@@ -1,0 +1,36 @@
+class virtual ['a] with_timeline = object(self)
+  method virtual on_time : int-> 'a
+end
+
+
+class ['a] constant valeur = object
+  inherit ['a] with_timeline
+  method on_time param = valeur
+end
+
+(*let minisleep (sec: float) =
+  ignore (Unix.select [] [] [] sec)*)
+
+let boucle_principale
+    (col_back : Graphics.color with_timeline)
+    (title : string with_timeline)
+    (shape : Affichage.forme with_timeline) =
+  Graphics.open_graph "";
+  let taille = 500 in
+  let rec aux t =
+    Graphics.set_window_title (title#on_time t);
+    Graphics.set_color (col_back#on_time t);
+    Graphics.fill_rect 0 0 taille taille;
+
+    for i=0 to taille -1 do
+      for j=0 to taille -1 do
+        if (shape#on_time t)# is_pixel_in (i, j) then
+          Graphics.plot i j
+      done;
+    done;
+
+    Unix.sleepf 0.1;
+    aux t+1
+  in aux 0
+
+

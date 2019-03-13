@@ -1,0 +1,70 @@
+
+class virtual forme =
+  object(self)
+    method virtual is_pixel_in : (int*int) -> bool
+  end
+
+class rectangle x1 y1 x2 y2 =
+  object
+    inherit forme
+    method is_pixel_in (x, y) =
+      x1<=x && x<x2 && y1<=y && y<y2
+  end
+
+class circle x0 y0 r =
+  object
+    inherit forme
+    method is_pixel_in (x, y) =
+      (x-x0)*(x-x0) + (y-y0)*(y-y0) < r*r
+  end
+
+class couleur (c : Graphics.color) (s : forme) =
+  object
+    method getcolor() = c
+    method is_pixel_in = s#is_pixel_in
+  end
+
+class compose_shapes
+    (op : bool -> bool -> bool)
+    (s1 : forme)
+    (s2 : forme) =
+  object
+    method is_pixel_in(i, j) = op (s1#is_pixel_in(i, j)) (s2#is_pixel_in(i, j))  
+  end
+    
+ 
+let taille = 500
+let couleurs = [|Graphics.green ; Graphics.red; Graphics.yellow|]
+exception Fin
+
+let mymain() =
+  Graphics.open_graph "";
+  Graphics.set_color Graphics.white;
+  Graphics.fill_rect 0 0 taille taille;
+  Graphics.set_color Graphics.green;
+
+  let liste = [
+    new compose_shapes (!=) (new rectangle 50 200 200 500) (new circle 200 100 150);
+    new compose_shapes (&&) (new rectangle 50 200 200 500) (new circle 200 100 150);
+    new circle 100 500 200] in
+
+  for i=0 to taille -1 do
+    for j=0 to taille -1 do
+      let nb = ref 0 in
+      try
+      List.iter
+        (fun f ->
+           if f#is_pixel_in (i, j) then begin
+             Graphics.set_color (couleurs.(!nb));
+             Graphics.plot i j;
+             raise Fin
+           end
+           else
+             nb := !nb + 1)
+        liste;
+      with fin -> ();
+    done;
+  done
+
+ (*let () = mymain()*)
+
