@@ -1,0 +1,1 @@
+writepgm.o: ../writepgm.c

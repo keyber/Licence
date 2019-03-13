@@ -1,0 +1,6 @@
+LDLIBS	= -linrimage -lm
+
+all:
+	gcc inrimage.c etire.c histogramme.c
+	@echo 'Compilation de module individuel INRIMAGE'
+	@echo 'Usage : make module'

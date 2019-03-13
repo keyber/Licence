@@ -1,0 +1,14 @@
+#include pgm.h
+
+void histogramme (int his [256], unsigned char *buf, long size){
+	for (int i = 0; i < 256; ++i) {
+		his[i] = 0;;
+	}
+	for (int i = 0; i < size; ++i) {
+		his[buf[i]]++;
+	}
+}
+
+int main(int argc, char **argv) {
+
+}

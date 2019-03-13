@@ -1,0 +1,8 @@
+##!draw(p 40 2)
+##!draw(l 41 129)
+##!draw(p 2 85)
+##!draw(l 129 86)
+##!draw(p 88 2)
+##!draw(l 89 129)
+##!draw(p 2 37)
+##!draw(l 129 38)

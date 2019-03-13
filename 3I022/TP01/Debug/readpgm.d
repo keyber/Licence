@@ -1,0 +1,1 @@
+readpgm.o: ../readpgm.c

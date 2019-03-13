@@ -1,0 +1,16 @@
+19:04:03 **** Incremental Build of configuration Debug for project TP01 ****
+make all 
+Building target: TP01
+Invoking: Cross GCC Linker
+gcc  -o "TP01"  ./etire.o ./histogram.o ./main.o ./readpgm.o ./writepgm.o   
+Finished building target: TP01
+ 
+19:04:05 **** Incremental Build of configuration Debug for project TP01 ****
+make all 
+make: Nothing to be done for 'all'.
+19:04:06 **** Incremental Build of configuration Debug for project TP01 ****
+make all 
+make: Nothing to be done for 'all'.
+15:01:10 **** Build of configuration Debug for project TP01 ****
+make all 
+make: Nothing to be done for 'all'.

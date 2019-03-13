@@ -1,0 +1,16 @@
+#!/bin/sh
+# genere un noyau gaussien d'écart type $1
+sigma=${1:-1}
+taille=$(echo "a=3*$sigma;scale=1;(2*a+1)" | bc -l | cut -d. -f1)
+t2=$((taille/2))
+
+echo "
+pi=4*a(1)
+sig2=2*$sigma*$sigma
+den=pi*sig2
+t=$t2
+for(i=-t; i<=t; i++)
+  for(j=-t; j<=t; j++) 
+    e((-i*i-j*j)/sig2)/den
+" | bc -l |  cim -x $taille -y $taille -r 
+

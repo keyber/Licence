@@ -1,0 +1,51 @@
+#INRIMAGE-4#{
+XDIM=3 
+YDIM=3 
+ZDIM=1 
+VDIM=1 
+TYPE=unsigned fixed
+PIXSIZE=8 bits
+SCALE=2**0
+CPU=decm
+#*[H]*<4> cim filtredetect -x 3 -y 3 
+#*[H]*<5> cim filtredetect -x 3 -y 3 
+#*[H]*<6> cim filtredetect -x 3 -y 3 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+##}
+ÿÿÿÿÿÿÿÿ
