@@ -1,0 +1,2950 @@
+From spamassassin-talk-admin@lists.sourceforge.net  Tue Aug 27 17:34:50 2002
+Return-Path: <spamassassin-talk-admin@example.sourceforge.net>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id 2BD7243F99
+	for <jm@localhost>; Tue, 27 Aug 2002 12:34:50 -0400 (EDT)
+Received: from phobos [127.0.0.1]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Tue, 27 Aug 2002 17:34:50 +0100 (IST)
+Received: from usw-sf-list2.sourceforge.net (usw-sf-fw2.sourceforge.net
+    [216.136.171.252]) by dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id
+    g7RGY2Z16880 for <jm-sa@jmason.org>; Tue, 27 Aug 2002 17:34:02 +0100
+Received: from usw-sf-list1-b.sourceforge.net ([10.3.1.13]
+    helo=usw-sf-list1.sourceforge.net) by usw-sf-list2.sourceforge.net with
+    esmtp (Exim 3.31-VA-mm2 #1 (Debian)) id 17jjHB-0005VG-00; Tue,
+    27 Aug 2002 09:33:09 -0700
+Received: from sccrmhc01.attbi.com ([204.127.202.61]) by
+    usw-sf-list1.sourceforge.net with esmtp (Exim 3.31-VA-mm2 #1 (Debian)) id
+    17jjH1-0003Lw-00 for <spamassassin-talk@lists.sourceforge.net>;
+    Tue, 27 Aug 2002 09:33:00 -0700
+Received: from localhost ([12.229.66.144]) by sccrmhc01.attbi.com
+    (InterMail vM.4.01.03.27 201-229-121-127-20010626) with ESMTP id
+    <20020827163251.TXZR11061.sccrmhc01.attbi.com@localhost> for
+    <spamassassin-talk@lists.sourceforge.net>; Tue, 27 Aug 2002 16:32:51 +0000
+Subject: Re: [SAtalk] where can I find the Habeas patent (application)?
+Content-Type: text/plain; charset=US-ASCII; format=flowed
+MIME-Version: 1.0 (Apple Message framework v482)
+From: Brian McNett <bmcnett@radparker.com>
+To: spamassassin-talk@example.sourceforge.net
+Content-Transfer-Encoding: 7bit
+In-Reply-To: <20020827144927.C4830-100000@moon.campus.luth.se>
+Message-Id: <954123A6-B9DA-11D6-AD60-003065C182B0@radparker.com>
+X-Mailer: Apple Mail (2.482)
+Sender: spamassassin-talk-admin@example.sourceforge.net
+Errors-To: spamassassin-talk-admin@example.sourceforge.net
+X-Beenthere: spamassassin-talk@example.sourceforge.net
+X-Mailman-Version: 2.0.9-sf.net
+Precedence: bulk
+List-Help: <mailto:spamassassin-talk-request@example.sourceforge.net?subject=help>
+List-Post: <mailto:spamassassin-talk@example.sourceforge.net>
+List-Subscribe: <https://example.sourceforge.net/lists/listinfo/spamassassin-talk>,
+    <mailto:spamassassin-talk-request@lists.sourceforge.net?subject=subscribe>
+List-Id: Talk about SpamAssassin <spamassassin-talk.example.sourceforge.net>
+List-Unsubscribe: <https://example.sourceforge.net/lists/listinfo/spamassassin-talk>,
+    <mailto:spamassassin-talk-request@lists.sourceforge.net?subject=unsubscribe>
+List-Archive: <http://www.geocrawler.com/redir-sf.php3?list=spamassassin-talk>
+X-Original-Date: Tue, 27 Aug 2002 09:32:31 -0700
+Date: Tue, 27 Aug 2002 09:32:31 -0700
+
+
+On Tuesday, August 27, 2002, at 06:03  AM, Tony L. Svanstrom wrote:
+
+> Where can I find it, I was searching online without any luck... =(
+
+You can't, because there isn't one, yet.  Habeas is using a 
+combination of copyright and trademark law to protect their 
+sender warranties.  They hope to patent the system, but they 
+have not been ISSUED a patent.
+
+--B
+
+
+
+-------------------------------------------------------
+This sf.net email is sponsored by: OSDN - Tired of that same old
+cell phone?  Get a new here for FREE!
+https://www.inphonic.com/r.asp?r=sourceforge1&refcode1=vs3390
+_______________________________________________
+Spamassassin-talk mailing list
+Spamassassin-talk@lists.sourceforge.net
+https://lists.sourceforge.net/lists/listinfo/spamassassin-talk
+
+
+
+
+From fork-admin@xent.com  Thu Aug 29 16:32:25 2002
+Return-Path: <fork-admin@xent.com>
+Delivered-To: zzzz@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id C408E43F9B
+	for <zzzz@localhost>; Thu, 29 Aug 2002 11:32:25 -0400 (EDT)
+Received: from phobos [127.0.0.1]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for zzzz@localhost (single-drop); Thu, 29 Aug 2002 16:32:25 +0100 (IST)
+Received: from xent.com ([64.161.22.236]) by dogma.slashnull.org
+    (8.11.6/8.11.6) with ESMTP id g7TFU0Z18213 for <zzzz@spamassassin.taint.org>;
+    Thu, 29 Aug 2002 16:30:03 +0100
+Received: from lair.xent.com (localhost [127.0.0.1]) by xent.com (Postfix)
+    with ESMTP id BDDE12940F6; Thu, 29 Aug 2002 08:27:09 -0700 (PDT)
+Delivered-To: fork@spamassassin.taint.org
+Received: from mx.spiritone.com (mx.spiritone.com [216.99.221.5]) by
+    xent.com (Postfix) with SMTP id 2E151294099 for <fork@xent.com>;
+    Thu, 29 Aug 2002 08:26:08 -0700 (PDT)
+Received: (qmail 28639 invoked from network); 29 Aug 2002 15:28:11 -0000
+Received: (ofmipd 216.99.213.165); 29 Aug 2002 15:27:49 -0000
+Message-Id: <EEE172E4-BB63-11D6-8C04-00039344DDD6@ordersomewherechaos.com>
+From: "RossO" <fork@ordersomewherechaos.com>
+To: fork@spamassassin.taint.org
+Subject: Re: Computational Recreations
+Content-Type: text/plain; charset=US-ASCII; format=flowed
+MIME-Version: 1.0 (Apple Message framework v482)
+Content-Transfer-Encoding: 7bit
+In-Reply-To: <Pine.BSO.4.44.0208261252210.16631-100000@crank.slack.net>
+X-Mailer: Apple Mail (2.482)
+Sender: fork-admin@xent.com
+Errors-To: fork-admin@xent.com
+X-Beenthere: fork@spamassassin.taint.org
+X-Mailman-Version: 2.0.11
+Precedence: bulk
+List-Help: <mailto:fork-request@xent.com?subject=help>
+List-Post: <mailto:fork@spamassassin.taint.org>
+List-Subscribe: <http://xent.com/mailman/listinfo/fork>, <mailto:fork-request@xent.com?subject=subscribe>
+List-Id: Friends of Rohit Khare <fork.xent.com>
+List-Unsubscribe: <http://xent.com/mailman/listinfo/fork>,
+    <mailto:fork-request@xent.com?subject=unsubscribe>
+List-Archive: <http://xent.com/pipermail/fork/>
+Date: 29 Aug 2002 08:28:13 -0700
+
+On Monday, August 26, 2002, at 09:59  AM, Tom wrote:
+
+> Post MG in the 80's there were the colums by A K Dewdney that I dug a
+> bunch put into a book  called Turing Omnibus and then there is , of
+> course, all the goodens put out by Dougy Hoffstadler.
+
+A.K. Dewdney was the name I was looking for and the column was "Computer 
+Recreations". Turns out he's still in Ontario and even has some homemade 
+Sci-Fi online...
+
+http://www.csd.uwo.ca/faculty/akd/TALES/index.html
+
+Vat Man
+Programming Roger
+The Homunculids
+Alphie & Omega
+
+
+...Ross...
+
+
+
+
+
+From pudge@perl.org  Thu Oct  3 12:22:44 2002
+Return-Path: <pudge@perl.org>
+Delivered-To: yyyy@localhost.spamassassin.taint.org
+Received: from localhost (jalapeno [127.0.0.1])
+	by jmason.org (Postfix) with ESMTP id 1843E16F03
+	for <jm@localhost>; Thu,  3 Oct 2002 12:22:44 +0100 (IST)
+Received: from jalapeno [127.0.0.1]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Thu, 03 Oct 2002 12:22:44 +0100 (IST)
+Received: from cpu59.osdn.com (slashdot.org [64.28.67.73] (may be forged))
+    by dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g93200K10120 for
+    <jm-use-perl@jmason.org>; Thu, 3 Oct 2002 03:00:01 +0100
+Received: from [10.2.181.14] (helo=perl.org) by cpu59.osdn.com with smtp
+    (Exim 3.35 #1 (Debian)) id 17wvEd-0004eI-01 for <jm-use-perl@jmason.org>;
+    Wed, 02 Oct 2002 21:57:03 -0400
+Date: Thu, 03 Oct 2002 02:00:33 +0000
+From: pudge@perl.org
+Subject: [use Perl] Stories for 2002-10-03
+To: yyyy-use-perl@spamassassin.taint.org
+Precedence: list
+X-Bulkmail: 2.051
+Message-Id: <E17wvEd-0004eI-01@cpu59.osdn.com>
+
+use Perl Daily Newsletter
+
+In this issue:
+    * Mailing List Judo movie available
+    * Conference Presentation Judo movie available
+
++--------------------------------------------------------------------+
+| Mailing List Judo movie available                                  |
+|   posted by gnat on Wednesday October 02, @12:47 (news)            |
+|   http://use.perl.org/article.pl?sid=02/10/02/1647249              |
++--------------------------------------------------------------------+
+
+[0]gnat writes "Mark-Jason Dominus's [1]Mailing List Judo is now
+available from perl.org. Thanks to David Wheeler for recording Mark's
+sessions. Conference Presentation Judo will come later today ..."
+
+Discuss this story at:
+    http://use.perl.org/comments.pl?sid=02/10/02/1647249
+
+Links:
+    0. mailto:gnat@oreilly.com
+    1. http://www.perl.org/tpc/2002/movies/
+
+
++--------------------------------------------------------------------+
+| Conference Presentation Judo movie available                       |
+|   posted by gnat on Wednesday October 02, @18:56 (news)            |
+|   http://use.perl.org/article.pl?sid=02/10/02/2257211              |
++--------------------------------------------------------------------+
+
+[0]gnat writes "Mark-Jason Dominus's [1]Conference Presentation Judo
+presentation is online at perl.org. Thanks again to David Wheeler for
+recording this at OSCON."
+
+Discuss this story at:
+    http://use.perl.org/comments.pl?sid=02/10/02/2257211
+
+Links:
+    0. mailto:gnat@oreilly.com
+    1. http://www.perl.org/tpc/2002/movies/mjd-conf-judo/
+
+
+
+Copyright 1997-2002 pudge.  All rights reserved.
+
+
+======================================================================
+
+You have received this message because you subscribed to it
+on use Perl.  To stop receiving this and other
+messages from use Perl, or to add more messages
+or change your preferences, please go to your user page.
+
+	http://use.perl.org/my/messages/
+
+You can log in and change your preferences from there.
+
+
+
+
+
+From rssfeeds@jmason.org  Thu Oct  3 12:24:05 2002
+Return-Path: <rssfeeds@spamassassin.taint.org>
+Delivered-To: yyyy@localhost.spamassassin.taint.org
+Received: from localhost (jalapeno [127.0.0.1])
+	by jmason.org (Postfix) with ESMTP id A87C316F1E
+	for <jm@localhost>; Thu,  3 Oct 2002 12:23:16 +0100 (IST)
+Received: from jalapeno [127.0.0.1]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Thu, 03 Oct 2002 12:23:16 +0100 (IST)
+Received: from dogma.slashnull.org (localhost [127.0.0.1]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g93807K19924 for
+    <jm@jmason.org>; Thu, 3 Oct 2002 09:00:07 +0100
+Message-Id: <200210030800.g93807K19924@dogma.slashnull.org>
+To: yyyy@spamassassin.taint.org
+From: diveintomark <rssfeeds@spamassassin.taint.org>
+Subject: Smitten
+Date: Thu, 03 Oct 2002 08:00:07 -0000
+Content-Type: text/plain; encoding=utf-8
+
+URL: http://diveintomark.org/archives/2002/10/02.html#smitten
+Date: 2002-10-02T09:49:49-05:00
+
+_Heather Hamilton_: Hypochondriac[1]. &#8220;It is because of my dog that I 
+have been smitten with an Ovarian Cyst&reg;; it is because of my dog that my 
+husband can't breathe with phlegm-free lungs. I can safely blame the dog for 
+everything.&#8221;
+
+
+
+[1] http://www.dooce.com/mtarchives/10_01_2002.html
+
+
+
+
+
+From ilug-admin@linux.ie  Tue Aug 13 10:29:32 2002
+Return-Path: <ilug-admin@linux.ie>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id 0327E4412F
+	for <jm@localhost>; Tue, 13 Aug 2002 05:22:02 -0400 (EDT)
+Received: from phobos [127.0.0.1]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Tue, 13 Aug 2002 10:22:02 +0100 (IST)
+Received: from lugh.tuatha.org (root@lugh.tuatha.org [194.125.145.45]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g7D7lCb21870 for
+    <jm-ilug@jmason.org>; Tue, 13 Aug 2002 08:47:12 +0100
+Received: from lugh (root@localhost [127.0.0.1]) by lugh.tuatha.org
+    (8.9.3/8.9.3) with ESMTP id IAA31172; Tue, 13 Aug 2002 08:46:44 +0100
+Received: from homer.jinny.ie ([193.120.171.3]) by lugh.tuatha.org
+    (8.9.3/8.9.3) with ESMTP id IAA31150 for <ilug@linux.ie>; Tue,
+    13 Aug 2002 08:46:38 +0100
+Received: from jlooney.jinny.ie (fw [193.120.171.2]) by homer.jinny.ie
+    (8.9.3/8.11.2) with ESMTP id IAA04605 for <ilug@linux.ie>; Tue,
+    13 Aug 2002 08:46:08 +0100
+Received: (from john@localhost) by jlooney.jinny.ie (8.11.6/8.11.6) id
+    g7D7kMM04946 for ilug@linux.ie; Tue, 13 Aug 2002 08:46:22 +0100
+X-Authentication-Warning: jlooney.jinny.ie: john set sender to
+    jlooney@jinny.ie using -f
+Date: Tue, 13 Aug 2002 08:46:22 +0100
+From: "John P. Looney" <valen@tuatha.org>
+To: ilug@linux.ie
+Subject: Re: [ILUG] RH7.3 on Cobalt - the saga continues
+Message-Id: <20020813074622.GE1858@jinny.ie>
+Reply-To: ilug@linux.ie
+Mail-Followup-To: ilug@linux.ie
+References: <20020812164951.GB1858@jinny.ie> <1029218068.4889.9.camel@aholm>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Disposition: inline
+In-Reply-To: <1029218068.4889.9.camel@aholm>
+User-Agent: Mutt/1.4i
+X-Os: Red Hat Linux 7.3/Linux 2.4.18-3
+X-Url: http://www.redbrick.dcu.ie/~valen
+X-Gnupg-Publickey: http://www.redbrick.dcu.ie/~valen/public.asc
+Sender: ilug-admin@linux.ie
+Errors-To: ilug-admin@linux.ie
+X-Mailman-Version: 1.1
+Precedence: bulk
+List-Id: Irish Linux Users' Group <ilug.linux.ie>
+X-Beenthere: ilug@linux.ie
+
+On Tue, Aug 13, 2002 at 06:54:28AM +0100, Anders Holm mentioned:
+> let me guess, you haven't tried the boot parameter root=/dev/hda2 if you
+> are using lilo??
+
+ Ah, you see - cobalt's don't use lilo. They have an openboot-like prom
+that looks in an ext2 partition in /dev/hda1 for a file called
+/boot/vmlinux.gz - nothing else.
+
+ The only way I think you can set parameters is with a "set_params" line.
+
+ However, when I run 
+    set_params root=/dev/hda2
+ and then run:
+    bfd /boot/vmlinux.gz
+
+ It boots the old kernel, I assume from the prom. It seems to do this, if
+something goes wrong - no error, just boots the default kernel.
+
+ BTW, 'bfd' means 'boot from disk'.
+
+Kate
+
+
+-- 
+Irish Linux Users' Group: ilug@linux.ie
+http://www.linux.ie/mailman/listinfo/ilug for (un)subscription information.
+List maintainer: listmaster@linux.ie
+
+
+
+
+
+From ilug-admin@linux.ie  Wed Aug 28 10:48:30 2002
+Return-Path: <ilug-admin@linux.ie>
+Delivered-To: zzzz@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id E908B4415B
+	for <zzzz@localhost>; Wed, 28 Aug 2002 05:47:43 -0400 (EDT)
+Received: from phobos [127.0.0.1]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for zzzz@localhost (single-drop); Wed, 28 Aug 2002 10:47:43 +0100 (IST)
+Received: from lugh.tuatha.org (root@lugh.tuatha.org [194.125.145.45]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g7RMdvZ28910 for
+    <zzzz-ilug@example.com>; Tue, 27 Aug 2002 23:39:57 +0100
+Received: from lugh (root@localhost [127.0.0.1]) by lugh.tuatha.org
+    (8.9.3/8.9.3) with ESMTP id XAA20690; Tue, 27 Aug 2002 23:38:51 +0100
+Received: from claymore.diva.ie (diva.ie [195.218.115.17] (may be forged))
+    by lugh.tuatha.org (8.9.3/8.9.3) with ESMTP id XAA20655 for
+    <ilug@linux.ie>; Tue, 27 Aug 2002 23:38:34 +0100
+X-Authentication-Warning: lugh.tuatha.org: Host diva.ie [195.218.115.17]
+    (may be forged) claimed to be claymore.diva.ie
+Received: from cunniffe.net (ts12-155.dublin.indigo.ie [194.125.172.155])
+    by claymore.diva.ie (8.9.3/8.9.3) with ESMTP id XAA11539 for
+    <ilug@linux.ie>; Tue, 27 Aug 2002 23:38:31 +0100
+Message-Id: <3D6BFF48.8050306@cunniffe.net>
+Date: Tue, 27 Aug 2002 23:38:00 +0100
+From: Vincent Cunniffe <vincent@cunniffe.net>
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.0; en-US; rv:1.0.0)
+    Gecko/20020530
+X-Accept-Language: en, en-us
+MIME-Version: 1.0
+To: ilug@linux.ie
+Subject: Re: [ILUG] Using Normal IDE Device with a Dell Latitude CPx laptop
+References: <3D6BEFBB.2030103@Sun.COM>
+Content-Type: text/plain; charset=us-ascii; format=flowed
+Content-Transfer-Encoding: 7bit
+Sender: ilug-admin@linux.ie
+Errors-To: ilug-admin@linux.ie
+X-Mailman-Version: 1.1
+Precedence: bulk
+List-Id: Irish Linux Users' Group <ilug.linux.ie>
+X-Beenthere: ilug@linux.ie
+
+Darren Kenny wrote:
+> Hi,
+> 
+> I've got an normal 3.5" CD-RW IDE drive that I'd like to be able to use 
+> with a Dell Latitude CPx laptop that I've got. Does anyone know any way 
+ > enable this, for example through the use of a special cable for the
+ > Modular Bay (where CD-ROM or floppy drive is normally).
+
+There is absolutely no way to use a conventional 3.5" drive with a
+laptop directly. However, you can get an external firewire or USB
+cradle and attach it to the laptop like that, and any 3.5" drive
+will work in that case.
+
+Example :
+
+http://www.microsense.com/USB_35_combo.asp
+
+Regards,
+
+Vin
+
+
+-- 
+Irish Linux Users' Group: ilug@linux.ie
+http://www.linux.ie/mailman/listinfo/ilug for (un)subscription information.
+List maintainer: listmaster@linux.ie
+
+
+
+
+From fork-admin@xent.com  Mon Sep 16 15:33:28 2002
+Return-Path: <fork-admin@xent.com>
+Delivered-To: yyyy@localhost.spamassassin.taint.org
+Received: from localhost (jalapeno [127.0.0.1])
+	by jmason.org (Postfix) with ESMTP id D97EA16F03
+	for <jm@localhost>; Mon, 16 Sep 2002 15:33:27 +0100 (IST)
+Received: from jalapeno [127.0.0.1]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Mon, 16 Sep 2002 15:33:27 +0100 (IST)
+Received: from xent.com ([64.161.22.236]) by dogma.slashnull.org
+    (8.11.6/8.11.6) with ESMTP id g8GDxYC27975 for <jm@jmason.org>;
+    Mon, 16 Sep 2002 14:59:34 +0100
+Received: from lair.xent.com (localhost [127.0.0.1]) by xent.com (Postfix)
+    with ESMTP id 84CE32940A1; Mon, 16 Sep 2002 06:56:05 -0700 (PDT)
+Delivered-To: fork@spamassassin.taint.org
+Received: from argote.ch (argote.ch [80.65.224.17]) by xent.com (Postfix)
+    with ESMTP id 9CE1329409A for <fork@xent.com>; Mon, 16 Sep 2002 06:55:39
+    -0700 (PDT)
+Received: by argote.ch (Postfix, from userid 500) id 03CCEC44D;
+    Mon, 16 Sep 2002 15:54:31 +0200 (CEST)
+To: fork@spamassassin.taint.org
+Subject: Re: Hanson's Sept 11 message in the National Review
+Message-Id: <20020916135431.03CCEC44D@argote.ch>
+From: harley@argote.ch (Robert Harley)
+Sender: fork-admin@xent.com
+Errors-To: fork-admin@xent.com
+X-Beenthere: fork@spamassassin.taint.org
+X-Mailman-Version: 2.0.11
+Precedence: bulk
+List-Help: <mailto:fork-request@xent.com?subject=help>
+List-Post: <mailto:fork@spamassassin.taint.org>
+List-Subscribe: <http://xent.com/mailman/listinfo/fork>, <mailto:fork-request@xent.com?subject=subscribe>
+List-Id: Friends of Rohit Khare <fork.xent.com>
+List-Unsubscribe: <http://xent.com/mailman/listinfo/fork>,
+    <mailto:fork-request@xent.com?subject=unsubscribe>
+List-Archive: <http://xent.com/pipermail/fork/>
+Date: Mon, 16 Sep 2002 15:54:31 +0200 (CEST)
+
+The usual crud.  Why do morons ranting and beating their chests in the
+National Review (or similar rags) merit FoRKing?
+
+
+
+
+
+From exmh-workers-admin@redhat.com  Fri Aug 23 11:07:16 2002
+Return-Path: <exmh-workers-admin@example.com>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id 4561444157
+	for <jm@localhost>; Fri, 23 Aug 2002 06:05:48 -0400 (EDT)
+Received: from phobos [127.0.0.1]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Fri, 23 Aug 2002 11:05:48 +0100 (IST)
+Received: from listman.example.com (listman.example.com [66.187.233.211]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g7N6LtZ13075 for
+    <jm-exmh@jmason.org>; Fri, 23 Aug 2002 07:21:59 +0100
+Received: from listman.example.com (localhost.localdomain [127.0.0.1]) by
+    listman.redhat.com (Postfix) with ESMTP id 61ECC3F134; Fri, 23 Aug 2002
+    02:22:02 -0400 (EDT)
+Delivered-To: exmh-workers@listman.example.com
+Received: from int-mx1.corp.example.com (int-mx1.corp.example.com
+    [172.16.52.254]) by listman.redhat.com (Postfix) with ESMTP id 57D393F134
+    for <exmh-workers@listman.redhat.com>; Fri, 23 Aug 2002 02:21:07 -0400
+    (EDT)
+Received: (from mail@localhost) by int-mx1.corp.example.com (8.11.6/8.11.6)
+    id g7N6L4B00352 for exmh-workers@listman.redhat.com; Fri, 23 Aug 2002
+    02:21:04 -0400
+Received: from mx1.example.com (mx1.example.com [172.16.48.31]) by
+    int-mx1.corp.redhat.com (8.11.6/8.11.6) with SMTP id g7N6L4Y00348 for
+    <exmh-workers@redhat.com>; Fri, 23 Aug 2002 02:21:04 -0400
+Received: from ratree.psu.ac.th ([202.28.97.6]) by mx1.example.com
+    (8.11.6/8.11.6) with SMTP id g7N66Ml10260 for <exmh-workers@redhat.com>;
+    Fri, 23 Aug 2002 02:06:27 -0400
+Received: from delta.cs.mu.OZ.AU (delta.coe.psu.ac.th [172.30.0.98]) by
+    ratree.psu.ac.th (8.11.6/8.11.6) with ESMTP id g7N6KIl10577 for
+    <exmh-workers@redhat.com>; Fri, 23 Aug 2002 13:20:23 +0700 (ICT)
+Received: from munnari.OZ.AU (localhost [127.0.0.1]) by delta.cs.mu.OZ.AU
+    (8.11.6/8.11.6) with ESMTP id g7N6KBW21590 for <exmh-workers@redhat.com>;
+    Fri, 23 Aug 2002 13:20:11 +0700 (ICT)
+From: Robert Elz <kre@munnari.OZ.AU>
+To: exmh-workers@example.com
+Subject: Re: Anolther sequence related traceback
+In-Reply-To: <16323.1030043119@munnari.OZ.AU>
+References: <16323.1030043119@munnari.OZ.AU>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Message-Id: <21588.1030083611@munnari.OZ.AU>
+X-Loop: exmh-workers@example.com
+Sender: exmh-workers-admin@example.com
+Errors-To: exmh-workers-admin@example.com
+X-Beenthere: exmh-workers@example.com
+X-Mailman-Version: 2.0.1
+Precedence: bulk
+List-Help: <mailto:exmh-workers-request@example.com?subject=help>
+List-Post: <mailto:exmh-workers@example.com>
+List-Subscribe: <https://listman.example.com/mailman/listinfo/exmh-workers>,
+    <mailto:exmh-workers-request@redhat.com?subject=subscribe>
+List-Id: Discussion list for EXMH developers <exmh-workers.example.com>
+List-Unsubscribe: <https://listman.example.com/mailman/listinfo/exmh-workers>,
+    <mailto:exmh-workers-request@redhat.com?subject=unsubscribe>
+List-Archive: <https://listman.example.com/mailman/private/exmh-workers/>
+Date: Fri, 23 Aug 2002 13:20:11 +0700
+X-Pyzor: Reported 0 times.
+X-Spam-Status: No, hits=-7.1 required=7.0
+	tests=IN_REP_TO,KNOWN_MAILING_LIST,REFERENCES,SPAM_PHRASE_01_02,
+	      X_LOOP
+	version=2.40-cvs
+X-Spam-Level: 
+
+    Date:        Fri, 23 Aug 2002 02:05:19 +0700
+    From:        Robert Elz <kre@munnari.oz.au>
+    Message-ID:  <16323.1030043119@munnari.OZ.AU>
+
+When I said ...
+
+  | This is from today's cvs
+
+that will translate as  "yesterday's" now of course (before the most
+recent set of changes (catchup speedups, and so on)).
+
+kre
+
+
+
+_______________________________________________
+Exmh-workers mailing list
+Exmh-workers@redhat.com
+https://listman.redhat.com/mailman/listinfo/exmh-workers
+
+
+
+
+From fork-admin@xent.com  Thu Sep  5 11:31:41 2002
+Return-Path: <fork-admin@xent.com>
+Delivered-To: yyyy@localhost.example.com
+Received: from localhost (jalapeno [127.0.0.1])
+	by jmason.org (Postfix) with ESMTP id 9117416F1E
+	for <jm@localhost>; Thu,  5 Sep 2002 11:28:48 +0100 (IST)
+Received: from jalapeno [127.0.0.1]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Thu, 05 Sep 2002 11:28:48 +0100 (IST)
+Received: from xent.com ([64.161.22.236]) by dogma.slashnull.org
+    (8.11.6/8.11.6) with ESMTP id g85531Z04930 for <jm@jmason.org>;
+    Thu, 5 Sep 2002 06:03:01 +0100
+Received: from lair.xent.com (localhost [127.0.0.1]) by xent.com (Postfix)
+    with ESMTP id 9D680294274; Wed,  4 Sep 2002 22:00:03 -0700 (PDT)
+Delivered-To: fork@example.com
+Received: from crank.slack.net (slack.net [166.84.151.181]) by xent.com
+    (Postfix) with ESMTP id 11AFB2940AA for <FoRK@xent.com>; Wed,
+    4 Sep 2002 21:59:05 -0700 (PDT)
+Received: by crank.slack.net (Postfix, from userid 596) id 6E3123ED52;
+    Thu,  5 Sep 2002 01:04:43 -0400 (EDT)
+Received: from localhost (localhost [127.0.0.1]) by crank.slack.net
+    (Postfix) with ESMTP id 6C9353ED4C; Thu,  5 Sep 2002 01:04:43 -0400 (EDT)
+From: Tom <tomwhore@slack.net>
+To: Gordon Mohr <gojomo@usa.net>
+Cc: FoRK <FoRK@xent.com>
+Subject: Re: CD player UI for toddlers
+In-Reply-To: <02ff01c25498$9695d840$640a000a@golden>
+Message-Id: <Pine.BSO.4.44.0209050103320.9755-100000@crank.slack.net>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Sender: fork-admin@xent.com
+Errors-To: fork-admin@xent.com
+X-Beenthere: fork@example.com
+X-Mailman-Version: 2.0.11
+Precedence: bulk
+List-Help: <mailto:fork-request@xent.com?subject=help>
+List-Post: <mailto:fork@example.com>
+List-Subscribe: <http://xent.com/mailman/listinfo/fork>, <mailto:fork-request@xent.com?subject=subscribe>
+List-Id: Friends of Rohit Khare <fork.xent.com>
+List-Unsubscribe: <http://xent.com/mailman/listinfo/fork>,
+    <mailto:fork-request@xent.com?subject=unsubscribe>
+List-Archive: <http://xent.com/pipermail/fork/>
+Date: Thu, 5 Sep 2002 01:04:43 -0400 (EDT)
+X-Spam-Status: No, hits=-6.3 required=7.0
+	tests=AWL,EMAIL_ATTRIBUTION,IN_REP_TO,KNOWN_MAILING_LIST,
+	      SPAM_PHRASE_00_01,USER_AGENT_PINE
+	version=2.50-cvs
+X-Spam-Level: 
+
+On Wed, 4 Sep 2002, Gordon Mohr wrote:
+
+--]Hmm. Seems like every CD player should include the
+--]capability to rip, encode, and cache the last few CDs
+--]inserted.
+
+There are companies doing just that, but given the current state of the
+DRm sceen and the litigiouness of the RIAA, who wants to go down like
+circus seals?
+
+
+
+
+
+
+
+From fork-admin@xent.com  Tue Sep 10 18:15:52 2002
+Return-Path: <fork-admin@xent.com>
+Delivered-To: yyyy@localhost.spamassassin.taint.org
+Received: from localhost (jalapeno [127.0.0.1])
+	by jmason.org (Postfix) with ESMTP id 9F91216F16
+	for <jm@localhost>; Tue, 10 Sep 2002 18:15:51 +0100 (IST)
+Received: from jalapeno [127.0.0.1]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Tue, 10 Sep 2002 18:15:51 +0100 (IST)
+Received: from xent.com ([64.161.22.236]) by dogma.slashnull.org
+    (8.11.6/8.11.6) with ESMTP id g8ADXcC32622 for <jm@jmason.org>;
+    Tue, 10 Sep 2002 14:33:42 +0100
+Received: from lair.xent.com (localhost [127.0.0.1]) by xent.com (Postfix)
+    with ESMTP id 753DA29410F; Tue, 10 Sep 2002 06:30:04 -0700 (PDT)
+Delivered-To: fork@spamassassin.taint.org
+Received: from argote.ch (argote.ch [80.65.224.17]) by xent.com (Postfix)
+    with ESMTP id E540729409A for <fork@xent.com>; Tue, 10 Sep 2002 06:29:49
+    -0700 (PDT)
+Received: by argote.ch (Postfix, from userid 500) id 04720C44D;
+    Tue, 10 Sep 2002 15:29:51 +0200 (CEST)
+To: fork@spamassassin.taint.org
+Subject: Re: Selling Wedded Bliss (was Re: Ouch...)
+Message-Id: <20020910132951.04720C44D@argote.ch>
+From: harley@argote.ch (Robert Harley)
+Sender: fork-admin@xent.com
+Errors-To: fork-admin@xent.com
+X-Beenthere: fork@spamassassin.taint.org
+X-Mailman-Version: 2.0.11
+Precedence: bulk
+List-Help: <mailto:fork-request@xent.com?subject=help>
+List-Post: <mailto:fork@spamassassin.taint.org>
+List-Subscribe: <http://xent.com/mailman/listinfo/fork>, <mailto:fork-request@xent.com?subject=subscribe>
+List-Id: Friends of Rohit Khare <fork.xent.com>
+List-Unsubscribe: <http://xent.com/mailman/listinfo/fork>,
+    <mailto:fork-request@xent.com?subject=unsubscribe>
+List-Archive: <http://xent.com/pipermail/fork/>
+Date: Tue, 10 Sep 2002 15:29:51 +0200 (CEST)
+
+Gordon Mohr:
+>It was clear you were talking about averages. But it should 
+>be equally clear that that isn't what people mean when they
+>use the word "promiscuity". 
+
+Sigh.
+
+This sprung out of a report linked by Cindy about the promiscuity of
+female monkeys with males other than the alpha male, i.e, specifically
+not the tail end of the distribution.  "By mating with as many
+extra-group males as possible, female langurs ensure [etc.]"
+
+
+>OK, then. Consider a population of 1,000,000. 500,000 men each
+>pair off with 500,000 women. Then, 1 man, let's call him "Wilt",
+>also has sex with the other 499,999 women
+
+This has never happened.  Its relevance is nil.
+
+
+>Averages are useful, sure -- but much more so if called by their 
+>actual name, rather than conflated with another concept.
+
+So I chose not to type "on average" explicitly in my post, since this
+is FoRK and one tends to assume that people have a clue.
+
+
+There is no disagreement between us, except that I am more interested
+in typical behaviour and you in extreme.  Actually, you probably just
+had a bad day and felt like jumping down my throat for the hell of it.
+
+
+EOT, AFAIC.
+
+R
+
+
+
+
+
+From razor-users-admin@lists.sourceforge.net  Wed Jul 24 05:34:04 2002
+Return-Path: <razor-users-admin@example.sourceforge.net>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id 7E5AC440CD
+	for <jm@localhost>; Wed, 24 Jul 2002 00:34:02 -0400 (EDT)
+Received: from dogma.slashnull.org [212.17.35.15]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Wed, 24 Jul 2002 05:34:02 +0100 (IST)
+Received: from usw-sf-list2.sourceforge.net (usw-sf-fw2.sourceforge.net
+    [216.136.171.252]) by dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id
+    g6O4Yt420289 for <jm-razor@jmason.org>; Wed, 24 Jul 2002 05:34:55 +0100
+Received: from usw-sf-list1-b.sourceforge.net ([10.3.1.13]
+    helo=usw-sf-list1.sourceforge.net) by usw-sf-list2.sourceforge.net with
+    esmtp (Exim 3.31-VA-mm2 #1 (Debian)) id 17XDfz-0007hz-00; Tue,
+    23 Jul 2002 21:23:03 -0700
+Received: from h-66-134-120-173.lsanca54.covad.net ([66.134.120.173]
+    helo=stealthgeeks.net) by usw-sf-list1.sourceforge.net with smtp (Exim
+    3.31-VA-mm2 #1 (Debian)) id 17XDf4-0002en-00 for
+    <razor-users@lists.sourceforge.net>; Tue, 23 Jul 2002 21:22:06 -0700
+Received: (qmail 98578 invoked by uid 1001); 24 Jul 2002 04:21:58 -0000
+Received: from localhost (sendmail-bs@127.0.0.1) by localhost with SMTP;
+    24 Jul 2002 04:21:58 -0000
+From: Patrick <patrick@stealthgeeks.net>
+To: razor-users@example.sourceforge.net
+In-Reply-To: <20020711084825.W60740-100000@rockstar.stealthgeeks.net>
+Message-Id: <20020723211828.Y98572-100000@rockstar.stealthgeeks.net>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Subject: [Razor-users] Authentication Error
+Sender: razor-users-admin@example.sourceforge.net
+Errors-To: razor-users-admin@example.sourceforge.net
+X-Beenthere: razor-users@example.sourceforge.net
+X-Mailman-Version: 2.0.9-sf.net
+Precedence: bulk
+List-Help: <mailto:razor-users-request@example.sourceforge.net?subject=help>
+List-Post: <mailto:razor-users@example.sourceforge.net>
+List-Subscribe: <https://example.sourceforge.net/lists/listinfo/razor-users>,
+    <mailto:razor-users-request@lists.sourceforge.net?subject=subscribe>
+List-Id: <razor-users.example.sourceforge.net>
+List-Unsubscribe: <https://example.sourceforge.net/lists/listinfo/razor-users>,
+    <mailto:razor-users-request@lists.sourceforge.net?subject=unsubscribe>
+List-Archive: <http://www.geocrawler.com/redir-sf.php3?list=razor-users>
+X-Original-Date: Tue, 23 Jul 2002 21:21:58 -0700 (PDT)
+Date: Tue, 23 Jul 2002 21:21:58 -0700 (PDT)
+
+
+Today's error(received multiple times) was:
+
+Jul 23 21:16:39.288680 report[98557]: [ 2]  Razor-Agents v2.12 starting
+razor-report ./jobspam
+Jul 23 21:16:46.597147 report[98558]: [ 1] razor-report error: reportit:
+Error 213 while authenticating, aborting.
+
+I really like the concept of Razor but I find myself wondering if it's
+really a good idea for the developers to be passing off what appears
+to be alpha-quality software as production-ready....
+
+
+/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
+                               Patrick Greenwell
+         Asking the wrong questions is the leading cause of wrong answers
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+
+
+
+-------------------------------------------------------
+This sf.net email is sponsored by:ThinkGeek
+Welcome to geek heaven.
+http://thinkgeek.com/sf
+_______________________________________________
+Razor-users mailing list
+Razor-users@lists.sourceforge.net
+https://lists.sourceforge.net/lists/listinfo/razor-users
+
+
+
+
+
+From spamassassin-talk-admin@lists.sourceforge.net  Thu Sep 12 00:05:24 2002
+Return-Path: <spamassassin-talk-admin@example.sourceforge.net>
+Delivered-To: yyyy@localhost.spamassassin.taint.org
+Received: from localhost (jalapeno [127.0.0.1])
+	by jmason.org (Postfix) with ESMTP id 537AF16F03
+	for <jm@localhost>; Thu, 12 Sep 2002 00:05:24 +0100 (IST)
+Received: from jalapeno [127.0.0.1]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Thu, 12 Sep 2002 00:05:24 +0100 (IST)
+Received: from usw-sf-list2.sourceforge.net (usw-sf-fw2.sourceforge.net
+    [216.136.171.252]) by dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id
+    g8BMQbC02513 for <jm-sa@jmason.org>; Wed, 11 Sep 2002 23:26:38 +0100
+Received: from usw-sf-list1-b.sourceforge.net ([10.3.1.13]
+    helo=usw-sf-list1.sourceforge.net) by usw-sf-list2.sourceforge.net with
+    esmtp (Exim 3.31-VA-mm2 #1 (Debian)) id 17pFuz-0002j5-00; Wed,
+    11 Sep 2002 15:25:05 -0700
+Received: from 168-215-122-205.gen.twtelecom.net ([168.215.122.205]
+    helo=commander) by usw-sf-list1.sourceforge.net with esmtp (Cipher
+    TLSv1:DES-CBC3-SHA:168) (Exim 3.31-VA-mm2 #1 (Debian)) id 17pFu9-0001j4-00
+    for <spamassassin-talk@lists.sourceforge.net>; Wed, 11 Sep 2002 15:24:13
+    -0700
+Received: from 65.91.219.248 [65.91.219.248] by commander with SMTPBeamer
+    v3.30 ; Wed, 11 Sep 2002 18:12:14 -0400
+Received: from omega.paradigm-omega.net (localhost.localdomain
+    [127.0.0.1]) by omega.paradigm-omega.net (Postfix) with ESMTP id
+    AC7909FBB7 for <spamassassin-talk@lists.sourceforge.net>; Wed,
+    11 Sep 2002 15:23:58 -0700 (PDT)
+Content-Type: text/plain; charset="us-ascii"
+Organization: Paradigm-Omega, LLC
+To: spamassassin-talk@example.sourceforge.net
+X-Mailer: KMail [version 1.3.1]
+X-PGP-Key-1: 8828 DA31 F788 2F87 CE6D  F563 5568 BABC 647E C336
+X-PGP-Key_2: D152 7DD6 C0E8 F2CB 4CD3  B5D7 5F67 B017 38D0 A14E
+X-Copyright(C): 2002
+X-Owner: Paradigm-Omega,LLC(tm)
+X-All-Rights: Reserved
+X-Dissemination: Prohibited
+X-Classification: Confidential/Proprietary
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+From: Robin Lynn Frank <rlfrank@paradigm-omega.com>
+Message-Id: <1031783038.19376.TMDA@omega.paradigm-omega.net>
+X-Delivery-Agent: TMDA/0.62
+X-Tmda-Fingerprint: SZL7V1rFmyW5bQ6W/Ty630spEiM
+X-Identifier: Robin Lynn Frank <rlfrank-sender-6a38a9@paradigm-omega.com>
+Reply-To: Robin Lynn Frank <rlfrank-dated-1032215038.df2f44@paradigm-omega.com>
+Subject: [SAtalk] Is DCC for real?
+Sender: spamassassin-talk-admin@example.sourceforge.net
+Errors-To: spamassassin-talk-admin@example.sourceforge.net
+X-Beenthere: spamassassin-talk@example.sourceforge.net
+X-Mailman-Version: 2.0.9-sf.net
+Precedence: bulk
+List-Help: <mailto:spamassassin-talk-request@example.sourceforge.net?subject=help>
+List-Post: <mailto:spamassassin-talk@example.sourceforge.net>
+List-Subscribe: <https://example.sourceforge.net/lists/listinfo/spamassassin-talk>,
+    <mailto:spamassassin-talk-request@lists.sourceforge.net?subject=subscribe>
+List-Id: Talk about SpamAssassin <spamassassin-talk.example.sourceforge.net>
+List-Unsubscribe: <https://example.sourceforge.net/lists/listinfo/spamassassin-talk>,
+    <mailto:spamassassin-talk-request@lists.sourceforge.net?subject=unsubscribe>
+List-Archive: <http://www.geocrawler.com/redir-sf.php3?list=spamassassin-talk>
+X-Original-Date: Wed, 11 Sep 2002 15:23:54 -0700
+Date: Wed, 11 Sep 2002 15:23:54 -0700
+
+So far today, I've found eff.org and mandrakesoft.com in DCC.  My confidence 
+in DCC is beginning to drop.
+-- 
+Robin Lynn Frank
+Paradigm-Omega, LLC
+==================================
+No electrons were harmed in the sending
+of this message.  However, two neutrons and 
+a proton complained about the noise.
+
+
+-------------------------------------------------------
+In remembrance
+www.osdn.com/911/
+_______________________________________________
+Spamassassin-talk mailing list
+Spamassassin-talk@lists.sourceforge.net
+https://lists.sourceforge.net/lists/listinfo/spamassassin-talk
+
+
+
+
+
+From rssfeeds@jmason.org  Mon Oct  7 12:05:21 2002
+Return-Path: <rssfeeds@spamassassin.taint.org>
+Delivered-To: yyyy@localhost.spamassassin.taint.org
+Received: from localhost (jalapeno [127.0.0.1])
+	by jmason.org (Postfix) with ESMTP id 6C8AD16F79
+	for <jm@localhost>; Mon,  7 Oct 2002 12:03:59 +0100 (IST)
+Received: from jalapeno [127.0.0.1]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Mon, 07 Oct 2002 12:03:59 +0100 (IST)
+Received: from dogma.slashnull.org (localhost [127.0.0.1]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g9780eK23245 for
+    <jm@jmason.org>; Mon, 7 Oct 2002 09:00:40 +0100
+Message-Id: <200210070800.g9780eK23245@dogma.slashnull.org>
+To: yyyy@spamassassin.taint.org
+From: gamasutra <rssfeeds@spamassassin.taint.org>
+Subject: Shooting from the Hip: An Interview with Hip Tanaka
+Date: Mon, 07 Oct 2002 08:00:39 -0000
+Content-Type: text/plain; encoding=utf-8
+
+URL: http://www.newsisfree.com/click/-0,8613662,159/
+Date: 2002-10-06T18:12:58+01:00
+
+In 1986, we in the U.S. were playing the Nintendo Entertainment System (known 
+as the Famicom in Japan), and roughly a third of the music for its first set of 
+games was written by Hirokazu "Hip" Tanaka, then with Nintendo Co. Ltd.He has 
+written music for countless other games as well as designing the Game Boy 
+Camera and Printer, and also scored the soundtrack to the Pokemon TV series. 
+Alexander Brandon catches up with the legendary composer.
+
+
+
+
+
+From rssfeeds@jmason.org  Mon Sep 30 13:43:57 2002
+Return-Path: <rssfeeds@spamassassin.taint.org>
+Delivered-To: yyyy@localhost.spamassassin.taint.org
+Received: from localhost (jalapeno [127.0.0.1])
+	by jmason.org (Postfix) with ESMTP id E1BFC16F16
+	for <jm@localhost>; Mon, 30 Sep 2002 13:43:56 +0100 (IST)
+Received: from jalapeno [127.0.0.1]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Mon, 30 Sep 2002 13:43:56 +0100 (IST)
+Received: from dogma.slashnull.org (localhost [127.0.0.1]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g8U81eg21351 for
+    <jm@jmason.org>; Mon, 30 Sep 2002 09:01:40 +0100
+Message-Id: <200209300801.g8U81eg21351@dogma.slashnull.org>
+To: yyyy@spamassassin.taint.org
+From: gamasutra <rssfeeds@spamassassin.taint.org>
+Subject: IMF shores up debt defences
+Date: Mon, 30 Sep 2002 08:01:40 -0000
+Content-Type: text/plain; encoding=utf-8
+
+URL: http://www.newsisfree.com/click/-1,8381143,215/
+Date: 2002-09-30T03:05:00+01:00
+
+*Business:* City and Wall Street are sceptical of plan to prevent more 
+countries slipping into Argentina-style crisis
+
+
+
+
+
+From felicity@kluge.net  Mon Sep  2 23:15:26 2002
+Return-Path: <felicity@kluge.net>
+Delivered-To: yyyy@localhost.spamassassin.taint.org
+Received: from localhost (unknown [127.0.0.1])
+	by jmason.org (Postfix) with ESMTP id 3768416F38
+	for <jm@localhost>; Mon,  2 Sep 2002 23:14:08 +0100 (IST)
+Received: from jalapeno [127.0.0.1]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Mon, 02 Sep 2002 23:14:08 +0100 (IST)
+Received: from eclectic.kluge.net
+    (IDENT:tK7m7Ybxp1pyihrA4nx2xIdU0iOnCnis@eclectic.kluge.net [66.92.69.221])
+    by dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g82KebZ20178 for
+    <jm@jmason.org>; Mon, 2 Sep 2002 21:40:37 +0100
+Received: (from felicity@localhost) by eclectic.kluge.net (8.11.6/8.11.6)
+    id g82Kerm26481; Mon, 2 Sep 2002 16:40:53 -0400
+Date: Mon, 2 Sep 2002 16:40:53 -0400
+From: Theo Van Dinter <felicity@kluge.net>
+To: Justin Mason <yyyy@spamassassin.taint.org>
+Cc: Spamassassin Devel List <spamassassin-devel@example.sourceforge.net>
+Subject: Re: [SAdev] SpamAssassin v2.40 released (finally)!
+Message-Id: <20020902204053.GD15737@kluge.net>
+References: <20020902175329.E20EC43F99@phobos.labs.netnoteinc.com>
+MIME-Version: 1.0
+Content-Type: multipart/signed; micalg=pgp-sha1;
+    protocol="application/pgp-signature";
+    boundary="1sNVjLsmu1MXqwQ/"
+Content-Disposition: inline
+In-Reply-To: <20020902175329.E20EC43F99@phobos.labs.netnoteinc.com>
+User-Agent: Mutt/1.4i
+X-GPG-Keyserver: http://wwwkeys.pgp.net
+X-GPG-Keynumber: 0xE580B363
+X-GPG-Fingerprint: 75B1 F6D0 8368 38E7 A4C5  F6C2 02E3 9051 E580 B363
+
+
+--1sNVjLsmu1MXqwQ/
+Content-Type: text/plain; charset=us-ascii
+Content-Disposition: inline
+Content-Transfer-Encoding: quoted-printable
+
+On Mon, Sep 02, 2002 at 06:53:24PM +0100, Justin Mason wrote:
+>   - Razor v2 now supported fully
+
+Hmmm...  I just upgraded from my modified 2.31 to a slightly modified 2.40
+(I add a routine to EvalTests) and get:
+
+Sep  2 15:32:24 eclectic spamd[20506]: razor2 check skipped: No such file o=
+r directory Can't call method
+"log" on unblessed reference at /usr/lib/perl5/site_perl/5.6.1/Razor2/Clien=
+t/Agent.pm line 211, <STDIN>
+line 22.=20
+
+I haven't quite figured out why yet, more to come.
+
+--=20
+Randomly Generated Tagline:
+"So on one hand, honey is an amazingly sophisticated and efficient food
+ source. On the other hand it's bee backwash."
+             - Alton Brown, Good Eats, "Pantry Raid IV: Comb Alone"
+
+--1sNVjLsmu1MXqwQ/
+Content-Type: application/pgp-signature
+Content-Disposition: inline
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.0.6 (GNU/Linux)
+Comment: For info see http://www.gnupg.org
+
+iD8DBQE9c8zVAuOQUeWAs2MRAm+8AKC24InxYaZY5BJi/u/FI2RQ5hy9jACgi9fM
+4jujLQNmvwcQm/8ULtyvaZU=
+=hKgW
+-----END PGP SIGNATURE-----
+
+--1sNVjLsmu1MXqwQ/--
+
+
+
+
+From ilug-admin@linux.ie  Tue Aug  6 11:51:25 2002
+Return-Path: <ilug-admin@linux.ie>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id B651A441DE
+	for <jm@localhost>; Tue,  6 Aug 2002 06:48:10 -0400 (EDT)
+Received: from phobos [127.0.0.1]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Tue, 06 Aug 2002 11:48:10 +0100 (IST)
+Received: from lugh.tuatha.org (root@lugh.tuatha.org [194.125.145.45]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g735YUv02123 for
+    <jm-ilug@jmason.org>; Sat, 3 Aug 2002 06:34:30 +0100
+Received: from lugh (root@localhost [127.0.0.1]) by lugh.tuatha.org
+    (8.9.3/8.9.3) with ESMTP id GAA15837; Sat, 3 Aug 2002 06:32:08 +0100
+Received: from UKExt5.uk.exel.com ([193.132.29.98]) by lugh.tuatha.org
+    (8.9.3/8.9.3) with ESMTP id GAA15812 for <ilug@linux.ie>; Sat,
+    3 Aug 2002 06:32:02 +0100
+X-Authentication-Warning: lugh.tuatha.org: Host [193.132.29.98] claimed to
+    be UKExt5.uk.exel.com
+From: "Dermot Beirne" <Dermot.Beirne@exel.com>
+To: "ilug" <ilug@linux.ie>
+Message-Id: <OF74F509D8.B096369C-ON80256C0A.001E0A06@uk.exel.com>
+Date: Sat, 3 Aug 2002 06:28:06 +0100
+X-Mimetrack: Serialize by Router on UKExt5/Exel-External(Release 5.0.9a
+    |January 7, 2002) at 03/08/2002 06:32:02
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Subject: [ILUG] Dermot Beirne/Dublin/IE/Exel is out of the office.
+Sender: ilug-admin@linux.ie
+Errors-To: ilug-admin@linux.ie
+X-Mailman-Version: 1.1
+Precedence: bulk
+List-Id: Irish Linux Users' Group <ilug.linux.ie>
+X-Beenthere: ilug@linux.ie
+
+I will be out of the office starting  02/08/2002 and will not return until
+06/08/2002.
+
+I am out of the office until Tuesday 6th August.   I will reply to messages
+on my return.
+
+Thank you.
+DermotImportant Email Information
+
+The information in this email is confidential and may be legally
+privileged. It is intended solely for the addressee. Access to this email
+by anyone else is unauthorized. If you are not the intended recipient, any
+disclosure, copying, distribution or any action taken or omitted to be
+taken in reliance on it, is prohibited and may be unlawful. If you are not
+the intended addressee please contact the sender and dispose of this
+e-mail.
+
+
+
+-- 
+Irish Linux Users' Group: ilug@linux.ie
+http://www.linux.ie/mailman/listinfo/ilug for (un)subscription information.
+List maintainer: listmaster@linux.ie
+
+
+
+
+
+From ilug-admin@linux.ie  Fri Aug  2 12:21:21 2002
+Return-Path: <ilug-admin@linux.ie>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id D6797440F8
+	for <jm@localhost>; Fri,  2 Aug 2002 07:21:20 -0400 (EDT)
+Received: from phobos [127.0.0.1]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Fri, 02 Aug 2002 12:21:20 +0100 (IST)
+Received: from lugh.tuatha.org (root@lugh.tuatha.org [194.125.145.45]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g72BHL219536 for
+    <jm-ilug@jmason.org>; Fri, 2 Aug 2002 12:17:21 +0100
+Received: from lugh (root@localhost [127.0.0.1]) by lugh.tuatha.org
+    (8.9.3/8.9.3) with ESMTP id MAA04027; Fri, 2 Aug 2002 12:15:16 +0100
+Received: from mail.aculink.net (65-173-158-7.aculink.net [65.173.158.7])
+    by lugh.tuatha.org (8.9.3/8.9.3) with ESMTP id MAA03994 for
+    <ilug@linux.ie>; Fri, 2 Aug 2002 12:15:06 +0100
+X-Authentication-Warning: lugh.tuatha.org: Host 65-173-158-7.aculink.net
+    [65.173.158.7] claimed to be mail.aculink.net
+Received: from cdm01.deedsmiscentral.net ([204.118.157.66]) by
+    mail.aculink.net (Merak 4.4.2) with ESMTP id EDA37003; Fri, 02 Aug 2002
+    05:22:16 -0600
+Received: from cdm01.deedsmiscentral.net
+    (IDENT:redneck@cdm01.deedsmiscentral.net [192.168.20.1]) by
+    cdm01.deedsmiscentral.net (8.11.6/8.11.6/ver) with ESMTP id g729UoT30389;
+    Fri, 2 Aug 2002 03:30:56 -0600
+Message-Id: <3D4A513F.5AF61C84@cdm01.deedsmiscentral.net>
+Date: Fri, 02 Aug 2002 03:30:39 -0600
+From: SoloCDM <deedsmis@aculink.net>
+Reply-To: deedsmis@aculink.net, ilug@linux.ie
+X-Mailer: Mozilla 4.78 [en] (X11; U; Linux 2.2.20-9.2mdk i586)
+X-Accept-Language: en
+MIME-Version: 1.0
+To: Ciaran Mac Lochlainn <ciaran17@eircom.net>
+Cc: "ILUG (Request)" <ilug@linux.ie>
+References: <5FE418B3F962D411BED40000E818B33C9C8E65@HASSLE>
+    <3D4814D0.6A61E6E5@cdm01.deedsmiscentral.net>
+    <20020731173414.4123f075.lbedford@lbedford.org>
+    <3D4881F6.F899591@cdm01.deedsmiscentral.net>
+    <002201c2393c$d125c690$ac0305c0@ciaran>
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Subject: [ILUG] Re: removing lilo
+Sender: ilug-admin@linux.ie
+Errors-To: ilug-admin@linux.ie
+X-Mailman-Version: 1.1
+Precedence: bulk
+List-Id: Irish Linux Users' Group <ilug.linux.ie>
+X-Beenthere: ilug@linux.ie
+
+Ciaran Mac Lochlainn stated the following:
+> 
+> SoloCDM wrote:
+> 
+> > Liam Bedford stated the following:
+> 
+> <edit>
+> 
+> >> fdisk /mbr will restore a dos MBR.. it'll leave the partitions
+> >> alone.
+> 
+> >> linux fdisk and deleting all partitions will actually leave LILO in
+> >> the MBR though.
+> 
+> > While I am in Linux, the following message is the output when I
+> > execute fdisk /mbr, even though the drive is in read and write mode:
+> 
+> > Unable to open /mbr
+> 
+> > The mbr is on a separate drive -- not related to the Linux drive.
+> 
+> fdisk /mbr is a DOS command - if you are in Linux you will be running
+> Linux fdisk, which doesn't have the /mbr option.  The Linux equivalent
+> of "fdisk /mbr" is "lilo -u /dev/hda" (unless John Reilly was making
+> that up yesterday - I haven't tried it!)
+
+Thanks!
+
+In the past I tried "lilo -u /dev/hda" and it wouldn't work -- an
+original copy of the MBR must be in /boot directory for it to work. 
+Which is exactly what I didn't have.  The installation of Linux
+Mandrake didn't afford me that luxury.
+
+Also, I'm glad you cleared up the fdisk issue.  I know better now --
+previously I was under the impression that fdisk had a hidden switch. 
+This is obviously not the case.
+
+-- 
+Note: When you reply to this message, please include the mailing
+      list and/or newsgroup address and my email address in To:
+
+*********************************************************************
+Signed,
+SoloCDM
+
+-- 
+Irish Linux Users' Group: ilug@linux.ie
+http://www.linux.ie/mailman/listinfo/ilug for (un)subscription information.
+List maintainer: listmaster@linux.ie
+
+
+
+
+
+From rssfeeds@jmason.org  Thu Sep 26 16:41:39 2002
+Return-Path: <rssfeeds@example.com>
+Delivered-To: yyyy@localhost.example.com
+Received: from localhost (jalapeno [127.0.0.1])
+	by jmason.org (Postfix) with ESMTP id 3A51A16F1E
+	for <jm@localhost>; Thu, 26 Sep 2002 16:40:58 +0100 (IST)
+Received: from jalapeno [127.0.0.1]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Thu, 26 Sep 2002 16:40:58 +0100 (IST)
+Received: from dogma.slashnull.org (localhost [127.0.0.1]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g8QFRrg24252 for
+    <jm@jmason.org>; Thu, 26 Sep 2002 16:27:53 +0100
+Message-Id: <200209261527.g8QFRrg24252@dogma.slashnull.org>
+To: yyyy@example.com
+From: "hyatt@mozilla" <rssfeeds@example.com>
+Subject: Movie Quiz
+Date: Thu, 26 Sep 2002 15:27:52 -0000
+Content-Type: text/plain; encoding=utf-8
+X-Spam-Status: No, hits=0.0 required=5.0
+	tests=AWL
+	version=2.50-cvs
+X-Spam-Level: 
+
+URL: http://www.mozillazine.org/weblogs/hyatt/#85377159
+Date: Not supplied
+
+Test your knowledge with this set of movie quotes. I'll be back in a couple of 
+days with the answers.
+
+
+-  Did IQs just drop sharply while I was away? 
+
+-  Any fool can get into college. Only a select few can say the same about 
+Amanda Jones.
+
+-  My dear, since Eve picked the apple, no woman has ever been taken entirely 
+unawares.
+
+-  This is Tommy. He tells people he's named after a gun, but I know he's named 
+after a famous 19th century ballerina.
+
+-  When one woman strikes at the heart of another she seldom misses, and the 
+wound is invariably fatal.
+
+-  I've never been alone with a man before, even with my dress on. With my 
+dress off, it's _most_ unusual.
+
+-  You're nothing to me now. You're not a brother, you're not a friend. I don't 
+want to know you or what you do. I don't want to see you at the hotels, I don't 
+want you near my house. When you see our mother, I want to know a day in 
+advance, so I won't be there.
+
+-  Kids: 10 seconds of joy, 30 years of misery.
+
+-  Sucking all the marrow out of life doesn't mean choking on the bone.
+
+-  A hundred million terrorists in the world and I gotta kill one with feet 
+smaller than my sister.
+
+-  Mother, I do not need a blind date. Particularly not with some verbally 
+incontinent spinster who drinks like a fish, smokes like a chimney and dresses 
+like her mother.
+
+-  Have you ever seen a body like this before in your life?
+She happens to be my daughter.
+Oh. Then I guess you have.
+
+-  I'm not a smart man, but I know what love is.
+
+-  Of course, you won't be able to lie on your back for a while but then you 
+can lie from any position, can't you?
+
+-  The fact that you prevented it from happening doesn't change the fact that 
+it was going to happen.
+
+-  Women need a reason for having sex. Men just need a place.
+
+-  You are not special. You are not a beautiful or unique snowflake. You are 
+the same decaying organic matter as everything else.
+
+-  Looks like I picked the wrong week to stop sniffing glue! 
+
+-  The issue is not whether you are paranoid. Look around you Lenny. The issue 
+is whether you are paranoid enough.
+
+-  Inconceivable!
+You keep using that word. I do not think it means what you think it means. 
+
+Enjoy.
+
+
+
+
+
+From fork-admin@xent.com  Wed Aug 28 18:07:15 2002
+Return-Path: <fork-admin@xent.com>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id AE58744156
+	for <jm@localhost>; Wed, 28 Aug 2002 13:07:12 -0400 (EDT)
+Received: from phobos [127.0.0.1]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Wed, 28 Aug 2002 18:07:12 +0100 (IST)
+Received: from xent.com ([64.161.22.236]) by dogma.slashnull.org
+    (8.11.6/8.11.6) with ESMTP id g7SH4cZ01940 for <jm@jmason.org>;
+    Wed, 28 Aug 2002 18:04:38 +0100
+Received: from lair.xent.com (localhost [127.0.0.1]) by xent.com (Postfix)
+    with ESMTP id 53FDD29421E; Wed, 28 Aug 2002 09:59:09 -0700 (PDT)
+Delivered-To: fork@example.com
+Received: from smtp1.auracom.net (smtp1.auracom.net [165.154.140.23]) by
+    xent.com (Postfix) with ESMTP id 5ACFA29421D for <fork@xent.com>;
+    Wed, 28 Aug 2002 09:58:23 -0700 (PDT)
+Received: from maya.dyndns.org (ts5-044.ptrb.interhop.net
+    [165.154.190.108]) by smtp1.auracom.net (8.11.2/8.11.2) with ESMTP id
+    g7SGY4V29693; Wed, 28 Aug 2002 12:34:04 -0400 (EDT)
+Received: by maya.dyndns.org (Postfix, from userid 501) id 3A3B21C38C;
+    Wed, 28 Aug 2002 12:58:27 -0400 (EDT)
+To: harley@argote.ch (Robert Harley)
+Cc: fork@example.com
+Subject: Re: Java is for kiddies
+References: <20020828164409.8826AC44D@argote.ch>
+From: Gary Lawrence Murphy <garym@canada.com>
+X-Home-Page: http://www.teledyn.com
+Organization: TCI Business Innovation through Open Source Computing
+Message-Id: <m23csy539p.fsf@maya.dyndns.org>
+Reply-To: Gary Lawrence Murphy <garym@canada.com>
+X-Url: http://www.teledyn.com/
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Sender: fork-admin@xent.com
+Errors-To: fork-admin@xent.com
+X-Beenthere: fork@example.com
+X-Mailman-Version: 2.0.11
+Precedence: bulk
+List-Help: <mailto:fork-request@xent.com?subject=help>
+List-Post: <mailto:fork@example.com>
+List-Subscribe: <http://xent.com/mailman/listinfo/fork>, <mailto:fork-request@xent.com?subject=subscribe>
+List-Id: Friends of Rohit Khare <fork.xent.com>
+List-Unsubscribe: <http://xent.com/mailman/listinfo/fork>,
+    <mailto:fork-request@xent.com?subject=unsubscribe>
+List-Archive: <http://xent.com/pipermail/fork/>
+Date: 28 Aug 2002 12:58:26 -0400
+X-Pyzor: Reported 0 times.
+X-Spam-Status: No, hits=-10.3 required=7.0
+	tests=KNOWN_MAILING_LIST,NOSPAM_INC,REFERENCES,
+	      SIGNATURE_SHORT_DENSE,SPAM_PHRASE_01_02
+	version=2.40-cvs
+X-Spam-Level: 
+
+>>>>> "R" == Robert Harley <harley@argote.ch> writes:
+
+    R> Depends who writes it.  One guy will write a bug every 5 lines,
+    R> another every 5000 lines.  Put them both on a project and that
+    R> will average out to a bug every 4.995 lines.  
+
+And a Java program, due to the extensive class libraries, will weigh
+in at 10% the number of lines of the equivalent C program.  QED.
+
+-- 
+Gary Lawrence Murphy <garym@teledyn.com> TeleDynamics Communications Inc
+ Business Advantage through Community Software : http://www.teledyn.com
+"Computers are useless.  They can only give you answers."(Pablo Picasso)
+
+
+
+
+
+From rssfeeds@jmason.org  Wed Sep 25 10:23:38 2002
+Return-Path: <rssfeeds@spamassassin.taint.org>
+Delivered-To: yyyy@localhost.spamassassin.taint.org
+Received: from localhost (jalapeno [127.0.0.1])
+	by jmason.org (Postfix) with ESMTP id 3CE0216F03
+	for <jm@localhost>; Wed, 25 Sep 2002 10:23:38 +0100 (IST)
+Received: from jalapeno [127.0.0.1]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Wed, 25 Sep 2002 10:23:38 +0100 (IST)
+Received: from dogma.slashnull.org (localhost [127.0.0.1]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g8P80LC18076 for
+    <jm@jmason.org>; Wed, 25 Sep 2002 09:00:21 +0100
+Message-Id: <200209250800.g8P80LC18076@dogma.slashnull.org>
+To: yyyy@spamassassin.taint.org
+From: scripting <rssfeeds@spamassassin.taint.org>
+Subject: Scoble: "I'm just not that excited by much that Microsoft is doing."
+Date: Wed, 25 Sep 2002 08:00:21 -0000
+Content-Type: text/plain; encoding=utf-8
+
+URL: http://scriptingnews.userland.com/backissues/2002/09/24#When:11:46:59AM
+Date: Tue, 24 Sep 2002 18:46:59 GMT
+
+Scoble[1]: "I'm just not that excited by much that Microsoft is doing."
+
+[1] http://radio.weblogs.com/0001011/2002/09/24.html
+
+
+
+
+
+From irregulars-admin@tb.tf  Thu Oct  3 12:56:04 2002
+Return-Path: <irregulars-admin@tb.tf>
+Delivered-To: yyyy@localhost.example.com
+Received: from localhost (jalapeno [127.0.0.1])
+	by jmason.org (Postfix) with ESMTP id 51F3216F75
+	for <jm@localhost>; Thu,  3 Oct 2002 12:53:55 +0100 (IST)
+Received: from jalapeno [127.0.0.1]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Thu, 03 Oct 2002 12:53:55 +0100 (IST)
+Received: from web.tb.tf (route-64-131-126-36.telocity.com
+    [64.131.126.36]) by dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id
+    g93BUpK26666 for <jm-irr@jmason.org>; Thu, 3 Oct 2002 12:30:51 +0100
+Received: from web.tb.tf (localhost.localdomain [127.0.0.1]) by web.tb.tf
+    (8.11.6/8.11.6) with ESMTP id g93Be2I21566; Thu, 3 Oct 2002 07:40:04 -0400
+Received: from red.harvee.home (red [192.168.25.1] (may be forged)) by
+    web.tb.tf (8.11.6/8.11.6) with ESMTP id g93Bd0I21556 for
+    <irregulars@tb.tf>; Thu, 3 Oct 2002 07:39:00 -0400
+Received: from maynard.mail.mindspring.net (maynard.mail.mindspring.net
+    [207.69.200.243]) by red.harvee.home (8.11.6/8.11.6) with ESMTP id
+    g93BU2D05365 for <irregulars@tb.tf>; Thu, 3 Oct 2002 07:30:02 -0400
+Received: from user-119ac86.biz.mindspring.com ([66.149.49.6]) by
+    maynard.mail.mindspring.net with esmtp (Exim 3.33 #1) id 17x4Ay-00057H-00;
+    Thu, 03 Oct 2002 07:29:53 -0400
+MIME-Version: 1.0
+X-Sender: rahettinga@pop.earthlink.net
+Message-Id: <p05111a40b9c1d5154087@[66.149.49.6]>
+To: dcsb@ai.mit.edu, cryptography@wasabisystems.com,
+	mac_crypto@vmeng.com, e$@vmeng.com, fork@xent.com, irregulars@tb.tf
+From: "R. A. Hettinga" <rah@shipwright.com>
+Content-Type: text/plain; charset="us-ascii"
+Subject: [IRR] The 3rd Annual Consult Hyperion Digital Identity Forum
+Sender: irregulars-admin@tb.tf
+Errors-To: irregulars-admin@tb.tf
+X-Beenthere: irregulars@tb.tf
+X-Mailman-Version: 2.0.6
+Precedence: bulk
+List-Help: <mailto:irregulars-request@tb.tf?subject=help>
+List-Post: <mailto:irregulars@tb.tf>
+List-Subscribe: <http://tb.tf/mailman/listinfo/irregulars>,
+    <mailto:irregulars-request@tb.tf?subject=subscribe>
+List-Id: New home of the TBTF Irregulars mailing list <irregulars.tb.tf>
+List-Unsubscribe: <http://tb.tf/mailman/listinfo/irregulars>,
+    <mailto:irregulars-request@tb.tf?subject=unsubscribe>
+List-Archive: <http://tb.tf/mailman/private/irregulars/>
+Date: Thu, 3 Oct 2002 07:06:51 -0400
+X-Spam-Status: No, hits=-18.2 required=5.0
+	tests=AWL,DEAR_SOMEBODY,FORGED_RCVD_TRAIL,KNOWN_MAILING_LIST,
+	      RCVD_IN_MULTIHOP_DSBL,RCVD_IN_UNCONFIRMED_DSBL,
+	      SIGNATURE_LONG_DENSE
+	version=2.50-cvs
+X-Spam-Level: 
+
+
+--- begin forwarded text
+
+
+Status: RO
+User-Agent: Microsoft-Entourage/10.1.0.2006
+Date: Thu, 03 Oct 2002 07:56:39 +0100
+Subject: The 3rd Annual Consult Hyperion Digital Identity Forum
+From: "David G.W. Birch" <dgw-lists@birches.org>
+To: Bob Hettinga <rah@shipwright.com>
+Cc: Digital Bearer Settlement List <dbs@philodox.com>
+
+Dear All,
+
+See www.digitalidentityforum.com for more details. Speakers include
+Microsoft and Liberty Alliance, UK central and local government, law
+enforcement, financial services (Egg and RBS/NatWest), EC Research Centre, a
+psychologist and others. Look forward to seeing you there.
+
+Regards,
+Dave Birch.
+
+-- 
+-- David Birch, Director, Consult Hyperion
+-- 
+-- tel +44 (0)1483 301793, fax +44 (0)1483 561657
+-- mail dave@chyp.com, web http://www.chyp.com
+-- 
+-- See you at the 2nd Annual Digital Transactions Forum in Singapore
+-- October 16th/17th 2002, see http://www.digitaltransactionsforum.com/
+
+--- end forwarded text
+
+
+-- 
+-----------------
+R. A. Hettinga <mailto: rah@ibuc.com>
+The Internet Bearer Underwriting Corporation <http://www.ibuc.com/>
+44 Farquhar Street, Boston, MA 02131 USA
+"... however it may deserve respect for its usefulness and antiquity,
+[predicting the end of the world] has not been found agreeable to
+experience." -- Edward Gibbon, 'Decline and Fall of the Roman Empire'
+_______________________________________________
+Irregulars mailing list
+Irregulars@tb.tf
+http://tb.tf/mailman/listinfo/irregulars
+
+
+
+
+
+From exmh-users-admin@redhat.com  Mon Sep 23 12:06:27 2002
+Return-Path: <exmh-users-admin@spamassassin.taint.org>
+Delivered-To: yyyy@localhost.spamassassin.taint.org
+Received: from localhost (jalapeno [127.0.0.1])
+	by jmason.org (Postfix) with ESMTP id 49A9816F03
+	for <jm@localhost>; Mon, 23 Sep 2002 12:06:26 +0100 (IST)
+Received: from jalapeno [127.0.0.1]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Mon, 23 Sep 2002 12:06:26 +0100 (IST)
+Received: from listman.spamassassin.taint.org (listman.spamassassin.taint.org [66.187.233.211]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g8N5D2C01926 for
+    <jm-exmh@jmason.org>; Mon, 23 Sep 2002 06:13:06 +0100
+Received: from listman.spamassassin.taint.org (localhost.localdomain [127.0.0.1]) by
+    listman.redhat.com (Postfix) with ESMTP id 74C573EBFF; Mon, 23 Sep 2002
+    01:13:23 -0400 (EDT)
+Delivered-To: exmh-users@listman.spamassassin.taint.org
+Received: from int-mx1.corp.spamassassin.taint.org (int-mx1.corp.spamassassin.taint.org
+    [172.16.52.254]) by listman.redhat.com (Postfix) with ESMTP id B83A03F6E9
+    for <exmh-users@listman.redhat.com>; Mon, 23 Sep 2002 01:08:24 -0400 (EDT)
+Received: (from mail@localhost) by int-mx1.corp.spamassassin.taint.org (8.11.6/8.11.6)
+    id g8N58OF19984 for exmh-users@listman.redhat.com; Mon, 23 Sep 2002
+    01:08:24 -0400
+Received: from mx1.spamassassin.taint.org (mx1.spamassassin.taint.org [172.16.48.31]) by
+    int-mx1.corp.redhat.com (8.11.6/8.11.6) with SMTP id g8N58Oh19980 for
+    <exmh-users@redhat.com>; Mon, 23 Sep 2002 01:08:24 -0400
+Received: from blackcomb.panasas.com (gw2.panasas.com [65.194.124.178]) by
+    mx1.redhat.com (8.11.6/8.11.6) with SMTP id g8N4oji22828 for
+    <exmh-users@redhat.com>; Mon, 23 Sep 2002 00:50:45 -0400
+Received: from medlicott.panasas.com (IDENT:welch@medlicott.panasas.com
+    [172.17.132.188]) by blackcomb.panasas.com (8.9.3/8.9.3) with ESMTP id
+    BAA09815 for <exmh-users@redhat.com>; Mon, 23 Sep 2002 01:08:17 -0400
+Message-Id: <200209230508.BAA09815@blackcomb.panasas.com>
+To: exmh-users@spamassassin.taint.org
+Subject: Re: bad focus/click behaviours
+In-Reply-To: <200209131705.g8DH5Or30284@lin12.triumf.ca>
+References: <200209131130.g8DBUZL24217@hobbit.linuxworks.com.au.nospam>
+    <200209131705.g8DH5Or30284@lin12.triumf.ca>
+Comments: In-reply-to Rick Baartman <baartman@lin12.triumf.ca> message
+    dated "Fri, 13 Sep 2002 10:05:23 -0700."
+From: Brent Welch <welch@panasas.com>
+X-Url: http://www.panasas.com/
+X-Face: "HxE|?EnC9fVMV8f70H83&{fgLE.|FZ^$>@Q(yb#N,Eh~N]e&]=>r5~UnRml1:4EglY{9B+
+    :'wJq$@c_C!l8@<$t,{YUr4K,QJGHSvS~U]H`<+L*x?eGzSk>XH\W:AK\j?@?c1o<k;j'Ei/UL)!*0
+    ILwSR)J\bc)gjz!rrGQ2#i*f:M:ydhK}jp4dWQW?;0{,#iWrCV$4~%e/3)$1/D
+X-Loop: exmh-users@spamassassin.taint.org
+Sender: exmh-users-admin@spamassassin.taint.org
+Errors-To: exmh-users-admin@spamassassin.taint.org
+X-Beenthere: exmh-users@spamassassin.taint.org
+X-Mailman-Version: 2.0.1
+Precedence: bulk
+Reply-To: exmh-users@spamassassin.taint.org
+List-Help: <mailto:exmh-users-request@spamassassin.taint.org?subject=help>
+List-Post: <mailto:exmh-users@spamassassin.taint.org>
+List-Subscribe: <https://listman.spamassassin.taint.org/mailman/listinfo/exmh-users>,
+    <mailto:exmh-users-request@redhat.com?subject=subscribe>
+List-Id: Discussion list for EXMH users <exmh-users.spamassassin.taint.org>
+List-Unsubscribe: <https://listman.spamassassin.taint.org/mailman/listinfo/exmh-users>,
+    <mailto:exmh-users-request@redhat.com?subject=unsubscribe>
+List-Archive: <https://listman.spamassassin.taint.org/mailman/private/exmh-users/>
+Date: Sun, 22 Sep 2002 22:08:16 -0700
+
+It's all here in these 10 lines, otherwise known as the
+"I'll try my damnest to paste something" procedure:
+
+# Return the current selection (from any window) or cut buffer 0.
+proc Text_Selection {} {
+    if [catch {selection get} sel] {
+        if [catch {selection get -selection CLIPBOARD} sel] {
+            if [catch {cutbuffer get 0} sel] {
+                return ""
+            }
+        }
+    }
+    return $sel
+}
+
+This is in textSelection.tcl, and is what exmh uses to find text to paste.
+It is that last "cutbuffer get" that is wacky, because exmh sticks its
+own deletions into that little know stash, and is probably the only
+application on the planet that still looks there.  We should probably
+just disable that - try this variant:
+
+proc Text_Selection {} {
+    if [catch {selection get} sel] {
+        if [catch {selection get -selection CLIPBOARD} sel] {
+            return ""
+        }
+    }
+    return $sel
+}
+
+Everything funnels through here, so you just need to hack this one spot.
+
+
+>>>Rick Baartman said:
+ > I've never understood the mouse buffer operation with exmh either. Here's th
+     e 
+ > behaviour I have. I have exmh and XEmacs windows up, and a terminal window. 
+     (I 
+ > also have gnome1.4 running and enlightenment as wm.) I select text in the ex
+     mh 
+ > window and while it is highlighted, I can paste into anything else. If I sel
+     ect 
+ > it and then click so the highlighting is off, then what I paste is not the 
+ > recently-selected text in exmh, but an old selection. If I select in XEmacs 
+     and 
+ > leave it highlighted, I can paste it into exmh sedit window; but if it is no
+      
+ > longer highlighted, what I paste is an old selection. I can live with this 
+ > behaviour except for one additional thing. If nothing is highlighted, then w
+     hat 
+ > I paste into exmh is different from what I paste into other windows. To be m
+     ore 
+ > specific, here's what gets pasted if nothing is highlighted:
+ > 
+ > Application       What gets pasted
+ > 
+ > XEmacs            whatever was last selected unless it was last selected in 
+     exmh
+ > xterm             same as XEmacs
+ > AbiWord           nothing
+ > Nedit             nothing
+ > sedit             Whatever was last highlighted in sedit and overwritten
+ > 
+ > The last needs some amplification. If I highlight something in sedit, then 
+ > obviously that's what gets pasted. If the highlighting is off, then what get
+     s 
+ > pasted is NOT what was last highlighted in sedit, but what was last highligh
+     ted 
+ > and typed over (I have "Type Kills SEL" on.).
+ > 
+ > It seems that exmh and sedit are the oddballs here. Very often when I try to
+      
+ > paste something in sedit I end up muttering WTF??
+ > 
+ > --
+ > rick
+ > 
+ > 
+ > 
+ > _______________________________________________
+ > Exmh-users mailing list
+ > Exmh-users@redhat.com
+ > https://listman.redhat.com/mailman/listinfo/exmh-users
+
+--
+Brent Welch
+Software Architect, Panasas Inc
+Pioneering the World's Most Scalable and Agile Storage Network
+www.panasas.com
+welch@panasas.com
+
+
+
+_______________________________________________
+Exmh-users mailing list
+Exmh-users@redhat.com
+https://listman.redhat.com/mailman/listinfo/exmh-users
+
+
+
+
+
+From spamassassin-talk-admin@lists.sourceforge.net  Thu Aug 29 11:06:10 2002
+Return-Path: <spamassassin-talk-admin@example.sourceforge.net>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id 7CA984416F
+	for <jm@localhost>; Thu, 29 Aug 2002 06:04:56 -0400 (EDT)
+Received: from phobos [127.0.0.1]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Thu, 29 Aug 2002 11:04:56 +0100 (IST)
+Received: from usw-sf-list2.sourceforge.net (usw-sf-fw2.sourceforge.net
+    [216.136.171.252]) by dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id
+    g7SKqtZ09829 for <jm-sa@jmason.org>; Wed, 28 Aug 2002 21:52:55 +0100
+Received: from usw-sf-list1-b.sourceforge.net ([10.3.1.13]
+    helo=usw-sf-list1.sourceforge.net) by usw-sf-list2.sourceforge.net with
+    esmtp (Exim 3.31-VA-mm2 #1 (Debian)) id 17k9mO-0005S1-00; Wed,
+    28 Aug 2002 13:51:08 -0700
+Received: from mailman.rexus.com ([216.136.83.173] helo=Mr-Mailman) by
+    usw-sf-list1.sourceforge.net with esmtp (Cipher TLSv1:DES-CBC3-SHA:168)
+    (Exim 3.31-VA-mm2 #1 (Debian)) id 17k9m2-0006tk-00 for
+    <spamassassin-talk@lists.sourceforge.net>; Wed, 28 Aug 2002 13:50:47 -0700
+Received: from 65.90.119.105 [65.90.119.105] by Mr-Mailman with SMTPBeamer
+    v3.30 ; Wed, 28 Aug 2002 16:48:10 -0400
+Received: from omega.paradigm-omega.net (localhost.localdomain
+    [127.0.0.1]) by omega.paradigm-omega.net (Postfix) with ESMTP id
+    36BD44C34E for <spamassassin-talk@lists.sourceforge.net>; Wed,
+    28 Aug 2002 13:50:26 -0700 (PDT)
+Content-Type: text/plain; charset="iso-8859-1"
+Organization: Paradigm-Omega, LLC
+To: spamassassin-talk@example.sourceforge.net
+Subject: Re: [SAtalk] O.T. Habeus -- Why?
+X-Mailer: KMail [version 1.3.1]
+References: <829DCAD0-BAC5-11D6-AD60-003065C182B0@radparker.com>
+In-Reply-To: <829DCAD0-BAC5-11D6-AD60-003065C182B0@radparker.com>
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+From: Robin Lynn Frank <rlfrank@paradigm-omega.com>
+Message-Id: <1030567825.3271.TMDA@omega.paradigm-omega.net>
+X-Delivery-Agent: TMDA/0.61
+Reply-To: Robin Lynn Frank <rlfrank-dated-1030999825.e6fd78@paradigm-omega.com>
+Sender: spamassassin-talk-admin@example.sourceforge.net
+Errors-To: spamassassin-talk-admin@example.sourceforge.net
+X-Beenthere: spamassassin-talk@example.sourceforge.net
+X-Mailman-Version: 2.0.9-sf.net
+Precedence: bulk
+List-Help: <mailto:spamassassin-talk-request@example.sourceforge.net?subject=help>
+List-Post: <mailto:spamassassin-talk@example.sourceforge.net>
+List-Subscribe: <https://example.sourceforge.net/lists/listinfo/spamassassin-talk>,
+    <mailto:spamassassin-talk-request@lists.sourceforge.net?subject=subscribe>
+List-Id: Talk about SpamAssassin <spamassassin-talk.example.sourceforge.net>
+List-Unsubscribe: <https://example.sourceforge.net/lists/listinfo/spamassassin-talk>,
+    <mailto:spamassassin-talk-request@lists.sourceforge.net?subject=unsubscribe>
+List-Archive: <http://www.geocrawler.com/redir-sf.php3?list=spamassassin-talk>
+X-Original-Date: Wed, 28 Aug 2002 13:50:07 -0700
+Date: Wed, 28 Aug 2002 13:50:07 -0700
+X-Pyzor: Reported 0 times.
+X-Spam-Status: No, hits=-12.6 required=7.0
+	tests=EMAIL_ATTRIBUTION,IN_REP_TO,KNOWN_MAILING_LIST,NOSPAM_INC,
+	      PGP_MESSAGE,QUOTED_EMAIL_TEXT,RCVD_IN_OSIRUSOFT_COM,
+	      REFERENCES,SPAM_PHRASE_02_03,X_OSIRU_DUL
+	version=2.40-cvs
+X-Spam-Level: 
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+On Wednesday 28 August 2002 01:34 pm, Brian McNett wrote:
+
+>
+> Uh... the reason is simple. Habeas runs something called the
+> "Habeas Infringers List", and if you use their trademark without
+> their permission, you'll end up on it.  Then, when you send spam
+> with the misappropriated header, users of SA (2.40 supports
+> this) will tag your mail as spam, rather than let it through.
+> This may be done independantly of your IP address, so be
+> prepared to constantly change domain names, and move your
+> servers as fast as you send spam.
+>
+> Also, that little haiku is a copyrighted work, so not only CAN
+> Habeas sue, they MUST sue to protect their copyright. And since
+> it's a trademark as well, that's a double-whammy. Habeas has
+> some pretty high-powered legal people, who will gladly go to
+> town on violators.
+>
+> The whole point here is to give them the legal leverage they
+> need to put spammers out of business, and not only block mail
+> from them, but allow through the things that really AREN'T spam.
+>
+> --B
+>
+And if a spammer forges headers???
+- -- 
+- ------------------------------------------------------------------------
+Robin Lynn Frank---Director of Operations---Paradigm, Omega, LLC
+http://paradigm-omega.com              http://paradigm-omega.net
+© 2002.  All rights reserved.  No duplication/dissemination permitted.
+Use of PGP/GPG encrypted mail preferred. No HTML/attachments accepted.
+Fingerprint:  08E0 567C 63CC 5642 DB6D  D490 0F98 D7D3 77EA 3714
+Key Server:  http://paradigm-omega.com/keymaster.html
+- ------------------------------------------------------------------------
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.0.7 (GNU/Linux)
+
+iD8DBQE9bTeHD5jX03fqNxQRArMEAJ4l1p6ToRVaG4j+Dy3R2tzfD9FNvgCfRhU3
+kZo/MbYBSLyI/m1vsN4ZYmM=
+=miJB
+-----END PGP SIGNATURE-----
+
+
+-------------------------------------------------------
+This sf.net email is sponsored by: Jabber - The world's fastest growing 
+real-time communications platform! Don't just IM. Build it in! 
+http://www.jabber.com/osdn/xim
+_______________________________________________
+Spamassassin-talk mailing list
+Spamassassin-talk@lists.sourceforge.net
+https://lists.sourceforge.net/lists/listinfo/spamassassin-talk
+
+
+
+
+From fork-admin@xent.com  Wed Aug 28 10:50:15 2002
+Return-Path: <fork-admin@xent.com>
+Delivered-To: zzzz@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id 235A143F9B
+	for <zzzz@localhost>; Wed, 28 Aug 2002 05:49:50 -0400 (EDT)
+Received: from phobos [127.0.0.1]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for zzzz@localhost (single-drop); Wed, 28 Aug 2002 10:49:50 +0100 (IST)
+Received: from xent.com ([64.161.22.236]) by dogma.slashnull.org
+    (8.11.6/8.11.6) with ESMTP id g7RInkZ21336 for <zzzz@spamassassin.taint.org>;
+    Tue, 27 Aug 2002 19:49:46 +0100
+Received: from lair.xent.com (localhost [127.0.0.1]) by xent.com (Postfix)
+    with ESMTP id 33F332940D2; Tue, 27 Aug 2002 11:47:09 -0700 (PDT)
+Delivered-To: fork@spamassassin.taint.org
+Received: from smtp1.auracom.net (smtp1.auracom.net [165.154.140.23]) by
+    xent.com (Postfix) with ESMTP id 33AAF29409A for <fork@xent.com>;
+    Tue, 27 Aug 2002 11:46:35 -0700 (PDT)
+Received: from maya.dyndns.org (ts5-007.ptrb.interhop.net
+    [165.154.190.71]) by smtp1.auracom.net (8.11.2/8.11.2) with ESMTP id
+    g7RIMMS12577 for <fork@xent.com>; Tue, 27 Aug 2002 14:22:23 -0400 (EDT)
+Received: by maya.dyndns.org (Postfix, from userid 501) id 032861C388;
+    Tue, 27 Aug 2002 14:28:18 -0400 (EDT)
+To: <fork@spamassassin.taint.org>
+Subject: Re: The GOv gets tough on Net Users.....er Pirates..
+References: <Pine.LNX.4.33.0208270202170.7689-100000@watcher.mithral.com>
+From: Gary Lawrence Murphy <garym@canada.com>
+X-Home-Page: http://www.teledyn.com
+Organization: TCI Business Innovation through Open Source Computing
+Message-Id: <m2hehgnr8y.fsf@maya.dyndns.org>
+Reply-To: Gary Lawrence Murphy <garym@canada.com>
+X-Url: http://www.teledyn.com/
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Sender: fork-admin@xent.com
+Errors-To: fork-admin@xent.com
+X-Beenthere: fork@spamassassin.taint.org
+X-Mailman-Version: 2.0.11
+Precedence: bulk
+List-Help: <mailto:fork-request@xent.com?subject=help>
+List-Post: <mailto:fork@spamassassin.taint.org>
+List-Subscribe: <http://xent.com/mailman/listinfo/fork>, <mailto:fork-request@xent.com?subject=subscribe>
+List-Id: Friends of Rohit Khare <fork.xent.com>
+List-Unsubscribe: <http://xent.com/mailman/listinfo/fork>,
+    <mailto:fork-request@xent.com?subject=unsubscribe>
+List-Archive: <http://xent.com/pipermail/fork/>
+Date: 27 Aug 2002 13:30:53 -0400
+
+>>>>> "A" == Adam L Beberg <beberg@mithral.com> writes:
+
+    A> I'm not displeased you're trying to help, just frustrated that
+    A> employers can demand such rediculous combinations of skills
+    A> with insane years of experience.
+
+>>>From my 25+ years in the playing field, IMHO the art of job-hunting
+(for those not yet de-jobbed) is the art of getting past the HR-stage
+interview and into the engineer-to-engineer interview.  HR is not
+being honest with you so there's no ethical quandry to be totally
+honest with them: If they want experience numbers that would place you
+in the OAK project, lead them to believe that you have "something
+roughly equivalent" (ie "it wasn't 5 years, but it was three intense
+years with plenty of overtime") -- they are playing a bluff in saying
+/they/ know the job requirements so you're perfectly within poker
+rules to bluff back to say you have it.
+
+If you /don't/ have the requisite Right Stuff, the engineers can
+usually suss it out pretty fast during the second interview.  Most
+often, their choice is based 90% on "who can I work with" and only
+maybe 10% on "how much/little will we have to tutor this candidate?"
+
+-- 
+Gary Lawrence Murphy <garym@teledyn.com> TeleDynamics Communications Inc
+ Business Advantage through Community Software : http://www.teledyn.com
+"Computers are useless.  They can only give you answers."(Pablo Picasso)
+
+
+
+
+
+From rssfeeds@jmason.org  Thu Sep 26 11:02:55 2002
+Return-Path: <rssfeeds@spamassassin.taint.org>
+Delivered-To: yyyy@localhost.spamassassin.taint.org
+Received: from localhost (jalapeno [127.0.0.1])
+	by jmason.org (Postfix) with ESMTP id DC49216F03
+	for <jm@localhost>; Thu, 26 Sep 2002 11:02:54 +0100 (IST)
+Received: from jalapeno [127.0.0.1]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Thu, 26 Sep 2002 11:02:54 +0100 (IST)
+Received: from dogma.slashnull.org (localhost [127.0.0.1]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g8Q81QC06420 for
+    <jm@jmason.org>; Thu, 26 Sep 2002 09:01:26 +0100
+Message-Id: <200209260801.g8Q81QC06420@dogma.slashnull.org>
+To: yyyy@spamassassin.taint.org
+From: scripting <rssfeeds@spamassassin.taint.org>
+Subject: Liberation: Les jouebs, stars editoriales du Web.
+Date: Thu, 26 Sep 2002 08:01:25 -0000
+Content-Type: text/plain; encoding=utf-8
+
+URL: http://scriptingnews.userland.com/backissues/2002/09/25#When:9:59:11AM
+Date: Wed, 25 Sep 2002 16:59:11 GMT
+
+Liberation: Les jouebs, stars editoriales du Web[1].
+
+[1] http://www.liberation.com/page.php?Article=55024
+
+
+
+
+
+From vipul@rover.vipul.net  Thu Aug 15 10:43:48 2002
+Return-Path: <vipul@rover.vipul.net>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id 4EA2643C37
+	for <jm@localhost>; Thu, 15 Aug 2002 05:43:20 -0400 (EDT)
+Received: from mail.webnote.net [193.120.211.219]
+	by localhost with POP3 (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Thu, 15 Aug 2002 10:43:20 +0100 (IST)
+Received: from rover.vipul.net (h-66-166-21-186.SNVACAID.covad.net [66.166.21.186])
+	by webnote.net (8.9.3/8.9.3) with ESMTP id BAA05500
+	for <jm@netnoteinc.com>; Thu, 15 Aug 2002 01:39:53 +0100
+Received: (from vipul@localhost)
+	by rover.vipul.net (8.11.6/8.11.6) id g7F0doJ24495;
+	Wed, 14 Aug 2002 17:39:50 -0700
+Date: Wed, 14 Aug 2002 17:39:50 -0700
+From: Vipul Ved Prakash <mail@vipul.net>
+To: Justin Mason <yyyy@netnoteinc.com>
+Cc: razor-users@example.sourceforge.net
+Subject: Re: [Razor-users] dot-tk registrations hitting Razor
+Message-ID: <20020814173950.A24450@rover.vipul.net>
+Reply-To: mail@vipul.net
+Mail-Followup-To: Justin Mason <yyyy@netnoteinc.com>,
+	razor-users@lists.sourceforge.net
+References: <20020814105631.AAF0B43C32@phobos.labs.netnoteinc.com>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Disposition: inline
+User-Agent: Mutt/1.2.5i
+In-Reply-To: <20020814105631.AAF0B43C32@phobos.labs.netnoteinc.com>; from yyyy@netnoteinc.com on Wed, Aug 14, 2002 at 11:56:26AM +0100
+X-Operating-System: Linux rover.vipul.net 2.4.18
+X-Privacy: If possible, encrypt your reply.  Key at http://vipul.net/
+
+Justin, can SA say "Listed in Razor2" when using Razor2? I get a lot of
+reports that are misreports to Razor1 not Razor2.
+
+If this is Razor2, then revocation will fix the problem. 
+
+cheers,
+vipul.
+
+On Wed, Aug 14, 2002 at 11:56:26AM +0100, Justin Mason wrote:
+> 
+> As the proud new owner of a free antarc.tk domain ;), I got a confirmation
+> mail, which fell into Razor.
+> 
+> Looks like the fuzzy matching will hit on all confirmation mails until
+> it's whitelisted.
+> 
+> just fyi,
+> 
+> --j.
+> 
+> ------- Forwarded Message
+> 
+> Date:    Wed, 14 Aug 2002 11:37:35 -0000
+> From:    support@dot.tk (Dot TK registration center)
+> To:      xxxxxx@xxxxx.xxx
+> Subject: *****SPAM***** Please confirm your free registration
+> 
+> SPAM: -------------------- Start SpamAssassin results ----------------------
+> SPAM: This mail is probably spam.  The original message has been altered
+> SPAM: so you can recognise or block similar unwanted mail in future.
+> SPAM: See http://spamassassin.org/tag/ for more details.
+> SPAM: 
+> SPAM: Content analysis details:   (7.5 hits, 7 required)
+> SPAM: SEE_FOR_YOURSELF   (2.8 points)  BODY: See for yourself
+> SPAM: SPAM_PHRASE_13_21  (1.5 points)  BODY: Contains phrases frequently found in spam
+> SPAM: RAZOR_CHECK        (3.0 points)  Listed in Razor, see http://razor.sourceforge.net/
+> SPAM: MSG_ID_ADDED_BY_MTA_3 (0.2 points)  'Message-Id' was added by a relay (3)
+> SPAM: 
+> SPAM: -------------------- End of SpamAssassin results ---------------------
+> 
+> 
+> Malo ni! 
+> and thank you (faka fetai) 
+> for registering with Dot TK!
+> 
+> Your e-mail address : xxxxxxx@xxxxx.xxx
+> password: xxxxxxxxx
+> 
+> confirmation code: xxxxxxx
+> (please note: this is not your password)
+> 
+> As you know we like to keep things simple, so all you need 
+> to do to activate your Dot TK address is...
+> 
+> 1. Go to http://my.dot.tk/cgi-bin/confirm.taloha?tk=xxxxxx
+> 
+> 2. And enter your confirmation code
+> 
+> If you have received this email, but did not join us @ Dot TK,
+> then somebody tried to register using your e-mail address. 
+> 
+> You can simply ignore this message... But why not come on in, 
+> and see for yourself if your own -free- domain name is still 
+> available at http://www.dot.tk
+> 
+> Any questions? Please visit our feedback page at
+> http://www.dot.tk/cgi-bin/response.taloha
+> Hope to see you soon at Dot TK.
+> 
+> Dot TK -- Dividing Domains Differently.
+> 
+> 
+> 
+> ------- End of Forwarded Message
+> 
+> 
+> 
+> -------------------------------------------------------
+> This sf.net email is sponsored by: Dice - The leading online job board
+> for high-tech professionals. Search and apply for tech jobs today!
+> http://seeker.dice.com/seeker.epl?rel_code=31
+> _______________________________________________
+> Razor-users mailing list
+> Razor-users@lists.sourceforge.net
+> https://lists.sourceforge.net/lists/listinfo/razor-users
+
+-- 
+
+Vipul Ved Prakash          |   "The future is here, it's just not 
+Software Design Artist     |    widely distributed."
+http://vipul.net/          |              -- William Gibson
+
+
+
+
+From spamassassin-talk-admin@lists.sourceforge.net  Wed Aug 28 19:30:34 2002
+Return-Path: <spamassassin-talk-admin@example.sourceforge.net>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id 2CD9244155
+	for <jm@localhost>; Wed, 28 Aug 2002 14:30:30 -0400 (EDT)
+Received: from phobos [127.0.0.1]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Wed, 28 Aug 2002 19:30:30 +0100 (IST)
+Received: from usw-sf-list2.sourceforge.net (usw-sf-fw2.sourceforge.net
+    [216.136.171.252]) by dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id
+    g7SIW0Z05462 for <jm-sa@jmason.org>; Wed, 28 Aug 2002 19:32:00 +0100
+Received: from usw-sf-list1-b.sourceforge.net ([10.3.1.13]
+    helo=usw-sf-list1.sourceforge.net) by usw-sf-list2.sourceforge.net with
+    esmtp (Exim 3.31-VA-mm2 #1 (Debian)) id 17k7Zs-0008QL-00; Wed,
+    28 Aug 2002 11:30:04 -0700
+Received: from libadm.ucr.edu ([138.23.89.79] helo=library.ucr.edu) by
+    usw-sf-list1.sourceforge.net with esmtp (Exim 3.31-VA-mm2 #1 (Debian)) id
+    17k7ZG-0008RR-00 for <spamassassin-talk@lists.sourceforge.net>;
+    Wed, 28 Aug 2002 11:29:26 -0700
+Received: by library.ucr.edu (Postfix, from userid 33) id 68DE17D32;
+    Wed, 28 Aug 2002 11:29:27 -0700 (PDT)
+Received: from dragonball.ucr.edu ([138.23.89.42]) (SquirrelMail
+    authenticated user simonian) by library.ucr.edu with HTTP; Wed,
+    28 Aug 2002 11:29:27 -0700 (PDT)
+Message-Id: <36033.138.23.89.42.1030559367.squirrel@library.ucr.edu>
+Subject: Re: [SAtalk] Too funny
+From: "Tanniel Simonian" <simonian@library.ucr.edu>
+To: <spamassassin-talk@example.sourceforge.net>
+In-Reply-To: <5.1.0.14.0.20020828133216.00b48160@192.168.50.2>
+References: <000801c24ea1$8a8023f0$af672e04@winxp>
+    <000801c24ea1$8a8023f0$af672e04@winxp>
+    <5.1.0.14.0.20020828133216.00b48160@192.168.50.2>
+X-Priority: 3
+Importance: Normal
+X-Msmail-Priority: Normal
+Reply-To: simonian@library.ucr.edu
+X-Mailer: SquirrelMail (version 1.2.6)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+Sender: spamassassin-talk-admin@example.sourceforge.net
+Errors-To: spamassassin-talk-admin@example.sourceforge.net
+X-Beenthere: spamassassin-talk@example.sourceforge.net
+X-Mailman-Version: 2.0.9-sf.net
+Precedence: bulk
+List-Help: <mailto:spamassassin-talk-request@example.sourceforge.net?subject=help>
+List-Post: <mailto:spamassassin-talk@example.sourceforge.net>
+List-Subscribe: <https://example.sourceforge.net/lists/listinfo/spamassassin-talk>,
+    <mailto:spamassassin-talk-request@lists.sourceforge.net?subject=subscribe>
+List-Id: Talk about SpamAssassin <spamassassin-talk.example.sourceforge.net>
+List-Unsubscribe: <https://example.sourceforge.net/lists/listinfo/spamassassin-talk>,
+    <mailto:spamassassin-talk-request@lists.sourceforge.net?subject=unsubscribe>
+List-Archive: <http://www.geocrawler.com/redir-sf.php3?list=spamassassin-talk>
+X-Original-Date: Wed, 28 Aug 2002 11:29:27 -0700 (PDT)
+Date: Wed, 28 Aug 2002 11:29:27 -0700 (PDT)
+
+
+Well if you're talking about epiphany, which is in January, then yes it is
+5 months.Some people do celebrate Christmas on january 6th, or even the 13th.
+
+But I am certain that what you are thinking is the correct thought.
+
+Please don't flame me. Just trying to be humerous =)
+
+
+Matt Kettler said:
+> On an unrelated, but similarly amusing note, a spam I received (and was
+>  tagged by SA) today began with:
+>
+>
+> > I bet you haven't even realized that Christmas is just 5 months away,
+> >
+> did you?
+>
+>
+> Strangely, no I wasn't aware that Christmas was 5 months away. Here in
+> the  US Christmas is a bit less than 4 months away. Where exactly is
+> the  "international month line" anyway? I've never seen the -74400
+> timezone  before, but I bet it qualifies as INVALID_DATE_TZ_ABSURD :)
+>
+>
+>
+>
+> -------------------------------------------------------
+> This sf.net email is sponsored by: Jabber - The world's fastest growing
+>  real-time communications platform! Don't just IM. Build it in!
+> http://www.jabber.com/osdn/xim
+> _______________________________________________
+> Spamassassin-talk mailing list
+> Spamassassin-talk@lists.sourceforge.net
+> https://lists.sourceforge.net/lists/listinfo/spamassassin-talk
+
+
+
+
+
+
+-------------------------------------------------------
+This sf.net email is sponsored by: Jabber - The world's fastest growing 
+real-time communications platform! Don't just IM. Build it in! 
+http://www.jabber.com/osdn/xim
+_______________________________________________
+Spamassassin-talk mailing list
+Spamassassin-talk@lists.sourceforge.net
+https://lists.sourceforge.net/lists/listinfo/spamassassin-talk
+
+
+
+
+From Stewart.Smith@ee.ed.ac.uk  Wed Aug 28 10:53:44 2002
+Return-Path: <Stewart.Smith@ee.ed.ac.uk>
+Delivered-To: zzzz@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id AFE0543F9B
+	for <zzzz@localhost>; Wed, 28 Aug 2002 05:53:42 -0400 (EDT)
+Received: from phobos [127.0.0.1]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for zzzz@localhost (single-drop); Wed, 28 Aug 2002 10:53:42 +0100 (IST)
+Received: from n16.grp.scd.yahoo.com (n16.grp.scd.yahoo.com
+    [66.218.66.71]) by dogma.slashnull.org (8.11.6/8.11.6) with SMTP id
+    g7S7xAZ15466 for <zzzz@spamassassin.taint.org>; Wed, 28 Aug 2002 08:59:10 +0100
+X-Egroups-Return: sentto-2242572-53126-1030521556-zzzz=spamassassin.taint.org@returns.groups.yahoo.com
+Received: from [66.218.67.196] by n16.grp.scd.yahoo.com with NNFMP;
+    28 Aug 2002 07:59:16 -0000
+X-Sender: Stewart.Smith@ee.ed.ac.uk
+X-Apparently-To: zzzzteana@yahoogroups.com
+Received: (EGP: mail-8_1_0_1); 28 Aug 2002 07:59:14 -0000
+Received: (qmail 46517 invoked from network); 28 Aug 2002 07:59:14 -0000
+Received: from unknown (66.218.66.217) by m3.grp.scd.yahoo.com with QMQP;
+    28 Aug 2002 07:59:14 -0000
+Received: from unknown (HELO postbox.ee.ed.ac.uk) (129.215.80.253) by
+    mta2.grp.scd.yahoo.com with SMTP; 28 Aug 2002 07:59:14 -0000
+Received: from ee.ed.ac.uk (sxs@dunblane [129.215.34.86]) by
+    postbox.ee.ed.ac.uk (8.11.0/8.11.0) with ESMTP id g7S7x8P07079 for
+    <forteana@yahoogroups.com>; Wed, 28 Aug 2002 08:59:09 +0100 (BST)
+Message-Id: <3D6C82CB.5040109@ee.ed.ac.uk>
+Organization: Scottish Microelectronics Centre
+User-Agent: Mozilla/5.0 (X11; U; SunOS sun4u; en-US; rv:1.1b) Gecko/20020628
+X-Accept-Language: en, en-us
+To: zzzzteana@yahoogroups.com
+References: <E17jkBl-0005Z9-00@protactinium.btinternet.com>
+From: Stewart Smith <Stewart.Smith@ee.ed.ac.uk>
+X-Yahoo-Profile: stochasticus
+MIME-Version: 1.0
+Mailing-List: list zzzzteana@yahoogroups.com; contact
+    forteana-owner@yahoogroups.com
+Delivered-To: mailing list zzzzteana@yahoogroups.com
+Precedence: bulk
+List-Unsubscribe: <mailto:zzzzteana-unsubscribe@yahoogroups.com>
+Date: Wed, 28 Aug 2002 08:59:07 +0100
+Subject: Re: [zzzzteana] Illusionist emerges after 24 hours underwater
+Reply-To: zzzzteana@yahoogroups.com
+Content-Type: text/plain; charset=US-ASCII
+Content-Transfer-Encoding: 7bit
+
+> An illusionist has emerged after 24 hours underwater in a case in New York's
+> Times Square.
+
+I'd just like to recommend the newest Viz to ukers just for the hilarious "David 
+Blaine: Stalag Magician".  The ego'd one is in a WWII prison camp and sort of 
+trying to escape.  Several times he seems to have escaped and the british 
+officers celebrate before it's revealed he's been buried alive or hiding in a 
+freezer.  At one point he's asked why and says "Well it's not for publicity" 
+Cracking stuff.
+
+Stew
+-- 
+Stewart Smith
+Scottish Microelectronics Centre, University of Edinburgh.
+http://www.ee.ed.ac.uk/~sxs/
+
+
+------------------------ Yahoo! Groups Sponsor ---------------------~-->
+4 DVDs Free +s&p Join Now
+http://us.click.yahoo.com/pt6YBB/NXiEAA/MVfIAA/7gSolB/TM
+---------------------------------------------------------------------~->
+
+To unsubscribe from this group, send an email to:
+forteana-unsubscribe@egroups.com
+
+ 
+
+Your use of Yahoo! Groups is subject to http://docs.yahoo.com/info/terms/ 
+
+
+
+
+
+
+From rpm-list-admin@freshrpms.net  Wed Oct  9 10:49:37 2002
+Return-Path: <rpm-zzzlist-admin@freshrpms.net>
+Delivered-To: zzzz@localhost.example.com
+Received: from localhost (jalapeno [127.0.0.1])
+	by example.com (Postfix) with ESMTP id 6614616F49
+	for <zzzz@localhost>; Wed,  9 Oct 2002 10:47:51 +0100 (IST)
+Received: from jalapeno [127.0.0.1]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for zzzz@localhost (single-drop); Wed, 09 Oct 2002 10:47:51 +0100 (IST)
+Received: from egwn.net (ns2.egwn.net [193.172.5.4]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g98KFUK32595 for
+    <zzzz-rpm@example.com>; Tue, 8 Oct 2002 21:15:31 +0100
+Received: from auth02.nl.egwn.net (localhost [127.0.0.1]) by egwn.net
+    (8.11.6/8.11.6/EGWN) with ESMTP id g98Jx6f06103; Tue, 8 Oct 2002 21:59:06
+    +0200
+Received: from adsl-63-192-217-110.dsl.snfc21.pacbell.net
+    (adsl-63-192-217-110.dsl.snfc21.pacbell.net [63.192.217.110]) by egwn.net
+    (8.11.6/8.11.6/EGWN) with ESMTP id g98Jvtf01473 for
+    <rpm-list@freshrpms.net>; Tue, 8 Oct 2002 21:57:56 +0200
+Received: from eecs.berkeley.edu (localhost [127.0.0.1]) by
+    adsl-63-192-217-110.dsl.snfc21.pacbell.net (Postfix) with ESMTP id
+    DE7083BA5D for <rpm-list@freshrpms.net>; Tue,  8 Oct 2002 12:57:53 -0700
+    (PDT)
+Message-Id: <3DA338C1.1072D5E7@eecs.berkeley.edu>
+From: Ben Liblit <liblit@eecs.berkeley.edu>
+X-Mailer: Mozilla 4.79 [en] (X11; U; Linux 2.4.19 i686)
+X-Accept-Language: en
+MIME-Version: 1.0
+To: rpm-zzzlist@freshrpms.net
+Subject: Re: RedHat 8.0 and his own freetype
+References: <20021004155451.52f9ecd5.matthias_haase@bennewitz.com>
+    <3D9E1F20.3050300@eecs.berkeley.edu>
+    <20021008175554.7d471cf0.matthias_haase@bennewitz.com>
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-Mailscanner: Found to be clean, Found to be clean
+Sender: rpm-zzzlist-admin@freshrpms.net
+Errors-To: rpm-zzzlist-admin@freshrpms.net
+X-Beenthere: rpm-zzzlist@freshrpms.net
+X-Mailman-Version: 2.0.11
+Precedence: bulk
+Reply-To: rpm-zzzlist@freshrpms.net
+List-Help: <mailto:rpm-zzzlist-request@freshrpms.net?subject=help>
+List-Post: <mailto:rpm-zzzlist@freshrpms.net>
+List-Subscribe: <http://lists.freshrpms.net/mailman/listinfo/rpm-zzzlist>,
+    <mailto:rpm-list-request@freshrpms.net?subject=subscribe>
+List-Id: Freshrpms RPM discussion list <rpm-zzzlist.freshrpms.net>
+List-Unsubscribe: <http://lists.freshrpms.net/mailman/listinfo/rpm-zzzlist>,
+    <mailto:rpm-list-request@freshrpms.net?subject=unsubscribe>
+List-Archive: <http://lists.freshrpms.net/pipermail/rpm-zzzlist/>
+X-Original-Date: Tue, 08 Oct 2002 12:57:53 -0700
+Date: Tue, 08 Oct 2002 12:57:53 -0700
+X-Spam-Status: No, hits=-3.6 required=5.0
+	tests=EMAIL_ATTRIBUTION,KNOWN_MAILING_LIST,QUOTED_EMAIL_TEXT,
+	      REFERENCES,REPLY_WITH_QUOTES,T_NONSENSE_FROM_40_50,
+	      USER_AGENT_MOZILLA_XM,X_ACCEPT_LANG
+	version=2.50-cvs
+X-Spam-Level: 
+
+Matthias Haase wrote:
+> The bytecode-interpreter *is* disabled on RH8, defined at line 3 in
+> the Specfile of the SRPM.
+
+Right you are.  The SRPM includes a patch to enable it, but then the
+specfile defaults to not applying that patch.  I saw the former but
+missed the later.  Egad, what a convoluted maze.
+
+Sorry for the misinformation!
+
+_______________________________________________
+RPM-List mailing list <RPM-List@freshrpms.net>
+http://lists.freshrpms.net/mailman/listinfo/rpm-list
+
+
+
+
+
+From ilug-admin@linux.ie  Tue Aug 13 11:03:02 2002
+Return-Path: <ilug-admin@linux.ie>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id 3D82F43C34
+	for <jm@localhost>; Tue, 13 Aug 2002 06:03:02 -0400 (EDT)
+Received: from phobos [127.0.0.1]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Tue, 13 Aug 2002 11:03:02 +0100 (IST)
+Received: from lugh.tuatha.org (root@lugh.tuatha.org [194.125.145.45]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g7DA3Y626571 for
+    <jm-ilug@jmason.org>; Tue, 13 Aug 2002 11:03:34 +0100
+Received: from lugh (root@localhost [127.0.0.1]) by lugh.tuatha.org
+    (8.9.3/8.9.3) with ESMTP id LAA06983; Tue, 13 Aug 2002 11:02:01 +0100
+Received: from kbs01.kbs.ie ([213.190.156.48]) by lugh.tuatha.org
+    (8.9.3/8.9.3) with ESMTP id LAA06960 for <ilug@linux.ie>; Tue,
+    13 Aug 2002 11:01:55 +0100
+X-Authentication-Warning: lugh.tuatha.org: Host [213.190.156.48] claimed
+    to be kbs01.kbs.ie
+Received: by KBS01 with Internet Mail Service (5.5.2653.19) id <Q4V0G6JX>;
+    Tue, 13 Aug 2002 11:18:27 +0100
+Message-Id: <55DA5264CE16D41186F600D0B74D6B0924727A@KBS01>
+From: "Brian O'Donoghue" <Brian.ODonoghue@kbs.ie>
+To: "'ilug@linux.ie'" <ilug@linux.ie>
+Subject: RE: [ILUG] SUSE 8 disks? (thread changed slightly)
+Date: Tue, 13 Aug 2002 11:18:22 +0100
+MIME-Version: 1.0
+X-Mailer: Internet Mail Service (5.5.2653.19)
+Content-Type: text/plain; charset="iso-8859-1"
+Sender: ilug-admin@linux.ie
+Errors-To: ilug-admin@linux.ie
+X-Mailman-Version: 1.1
+Precedence: bulk
+List-Id: Irish Linux Users' Group <ilug.linux.ie>
+X-Beenthere: ilug@linux.ie
+
+> Of course, it would require a minimum of EUR300,000 in funding, which is
+> the
+> reason I have not started this project myself... :(
+> 
+> - Matthew
+
+It would?
+Sounds like you are talking about setting up a company, to be a vendor....
+I'd venture the early days of Debian, Slackware and other involveds there
+was no such financing.
+
+-- 
+Irish Linux Users' Group: ilug@linux.ie
+http://www.linux.ie/mailman/listinfo/ilug for (un)subscription information.
+List maintainer: listmaster@linux.ie
+
+
+
+
+
+From spamassassin-talk-admin@lists.sourceforge.net  Tue Oct  8 17:02:46 2002
+Return-Path: <spamassassin-talk-admin@example.sourceforge.net>
+Delivered-To: yyyy@localhost.example.com
+Received: from localhost (jalapeno [127.0.0.1])
+	by jmason.org (Postfix) with ESMTP id B8FA616F18
+	for <jm@localhost>; Tue,  8 Oct 2002 17:02:19 +0100 (IST)
+Received: from jalapeno [127.0.0.1]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Tue, 08 Oct 2002 17:02:19 +0100 (IST)
+Received: from usw-sf-list2.sourceforge.net (usw-sf-fw2.sourceforge.net
+    [216.136.171.252]) by dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id
+    g98FWJK22155 for <077-jm-sa-listinfo-9089756@jmason.org>; Tue,
+    8 Oct 2002 16:32:19 +0100
+Received: from usw-sf-list1-b.sourceforge.net ([10.3.1.13]
+    helo=usw-sf-list1.sourceforge.net) by usw-sf-list2.sourceforge.net with
+    esmtp (Exim 3.31-VA-mm2 #1 (Debian)) id 17ywM8-0004Su-00 for
+    <077-jm-sa-listinfo-9089756@jmason.org>; Tue, 08 Oct 2002 08:33:08 -0700
+Received: from buffy.jpci.net ([212.113.192.239]) by
+    usw-sf-list1.sourceforge.net with esmtp (Exim 3.31-VA-mm2 #1 (Debian)) id
+    17ywLg-0005eg-00 for <spamassassin-talk-admin@lists.sourceforge.net>;
+    Tue, 08 Oct 2002 08:32:40 -0700
+From: "postmaster@jpci.net" <postmaster@jpci.net>
+To: "spamassassin-talk-admin@example.sourceforge.net" <spamassassin-talk-admin@example.sourceforge.net>
+Subject: Failed mail: Banned or potentially offensive material
+Date: Tue, 8 Oct 2002 16:30:44 +0100
+Message-Id: <15304473447566@buffy.jpci.net>
+X-Mailer: NTMail v7.02.3037
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+    boundary="==_15304473447567@buffy.jpci.net==_"
+Sender: spamassassin-talk-owner@example.sourceforge.net
+Errors-To: spamassassin-talk-owner@example.sourceforge.net
+X-Beenthere: spamassassin-talk@example.sourceforge.net
+X-Mailman-Version: 2.0.9-sf.net
+Precedence: bulk
+List-Help: <mailto:spamassassin-talk-request@example.sourceforge.net?subject=help>
+List-Post: <mailto:spamassassin-talk@example.sourceforge.net>
+List-Subscribe: <https://example.sourceforge.net/lists/listinfo/spamassassin-talk>,
+    <mailto:spamassassin-talk-request@lists.sourceforge.net?subject=subscribe>
+List-Id: Talk about SpamAssassin <spamassassin-talk.example.sourceforge.net>
+List-Unsubscribe: <https://example.sourceforge.net/lists/listinfo/spamassassin-talk>,
+    <mailto:spamassassin-talk-request@lists.sourceforge.net?subject=unsubscribe>
+List-Archive: <http://sourceforge.net/mailarchives/forum.php?forum=spamassassin-talk>
+X-Spam-Status: No, hits=-6.2 required=5.0 tests=AWL,KNOWN_MAILING_LIST,TO_ADDRESS_EQ_REAL,
+    T_NONSENSE_FROM_00_10 version=2.50-cvs
+X-Spam-Level:
+
+This is a MIME-encapsulated message
+
+--==_15304473447567@buffy.jpci.net==_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+Content-Disposition: inline
+
+Your message was not delivered to
+ 
+    daz@jpci.net
+ 
+This mail message contains banned or potentially offensive text.
+
+
+--==_15304473447567@buffy.jpci.net==_
+Content-Type: message/delivery-status
+Content-Transfer-Encoding: 7bit
+Content-Disposition: inline
+
+Reporting-MTA: dns;buffy.jpci.net
+ 
+Final-Recipient: rfc822;daz@jpci.net
+Action: failure
+Status: 550 Phrase in email not acceptable
+
+
+--==_15304473447567@buffy.jpci.net==_
+Content-Type: message/rfc822
+Content-Transfer-Encoding: 7bit
+Content-Disposition: inline
+
+Received: from usw-sf-list1-b.sourceforge.net ([10.3.1.13] helo=usw-sf-list1.sourceforge.net)
+	by usw-sf-list2.sourceforge.net with esmtp (Exim 3.31-VA-mm2 #1 (Debian))
+	id 17ywHF-0003wQ-00; Tue, 08 Oct 2002 08:28:05 -0700
+Received: from dsl092-072-213.bos1.dsl.speakeasy.net ([66.92.72.213] helo=blazing.arsecandle.org)
+	by usw-sf-list1.sourceforge.net with esmtp 
+	(Cipher TLSv1:DES-CBC3-SHA:168) (Exim 3.31-VA-mm2 #1 (Debian))
+	id 17ywGP-000544-00
+	for <Spamassassin-talk@lists.sourceforge.net>; Tue, 08 Oct 2002 08:27:14 -0700
+Received: (qmail 31751 invoked from network); 8 Oct 2002 15:26:25 -0000
+Received: from localhost (HELO RAGING) (rod@127.0.0.1)
+  by localhost with SMTP; 8 Oct 2002 15:26:25 -0000
+Message-ID: <042a01c26edf$16332c50$b554a8c0@RAGING>
+From: "rODbegbie" <rOD@arsecandle.org>
+To: "Odhiambo Washington" <wash@wananchi.com>,
+	"spamassassin" <Spamassassin-talk@lists.sourceforge.net>
+References: <20021008130510.GA23757@ns2.wananchi.com>
+Subject: Re: [SAtalk] spamd error messages
+Organization: Arsecandle Industries, Inc.
+X-Habeas-SWE-1: winter into spring
+X-Habeas-SWE-2: brightly anticipated
+X-Habeas-SWE-3: like Habeas SWE (tm)
+X-Habeas-SWE-4: Copyright 2002 Habeas (tm)
+X-Habeas-SWE-5: Sender Warranted Email (SWE) (tm). The sender of this
+X-Habeas-SWE-6: email in exchange for a license for this Habeas
+X-Habeas-SWE-7: warrant mark warrants that this is a Habeas Compliant
+X-Habeas-SWE-8: Message (HCM) and not spam. Please report use of this
+X-Habeas-SWE-9: mark in spam to <http://www.habeas.com/report>.
+MIME-Version: 1.0
+Content-Type: multipart/signed;
+	micalg=SHA1;
+	protocol="application/x-pkcs7-signature";
+	boundary="----=_NextPart_000_0426_01C26EBD.8DF911E0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1106
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1106
+Sender: spamassassin-talk-admin@example.sourceforge.net
+Errors-To: spamassassin-talk-admin@example.sourceforge.net
+X-BeenThere: spamassassin-talk@example.sourceforge.net
+X-Mailman-Version: 2.0.9-sf.net
+Precedence: bulk
+List-Help: <mailto:spamassassin-talk-request@example.sourceforge.net?subject=help>
+List-Post: <mailto:spamassassin-talk@example.sourceforge.net>
+List-Subscribe: <https://example.sourceforge.net/lists/listinfo/spamassassin-talk>,
+	<mailto:spamassassin-talk-request@lists.sourceforge.net?subject=subscribe>
+List-Id: Talk about SpamAssassin <spamassassin-talk.example.sourceforge.net>
+List-Unsubscribe: <https://example.sourceforge.net/lists/listinfo/spamassassin-talk>,
+	<mailto:spamassassin-talk-request@lists.sourceforge.net?subject=unsubscribe>
+List-Archive: <http://sourceforge.net/mailarchives/forum.php?forum=spamassassin-talk>
+X-Original-Date: Tue, 8 Oct 2002 11:26:32 -0400
+Date: Tue, 8 Oct 2002 11:26:32 -0400
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0426_01C26EBD.8DF911E0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 7bit
+
+Odhiambo Washington wrote:
+> After being bitten by bugs in 2.41, I've downgraded to 2.31 but now spamd
+> spews errors like I've never seen before:
+
+Delete the contents of /usr/local/share/spamassassin and reinstall.  There
+are some files that were new to v2.4x, so they won't be overwritten when you
+downgrade.
+
+rOD.
+
+
+--
+"Fast!  Fast!  Faster!  Bring the beef, you bastard,"
+cries Paula Abdul, "and don't forget the pasta!"
+
+Doing the blogging thang again at http://www.groovymother.com/ <<
+
+------=_NextPart_000_0426_01C26EBD.8DF911E0
+Content-Type: application/x-pkcs7-signature;
+	name="smime.p7s"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment;
+	filename="smime.p7s"
+
+MIAGCSqGSIb3DQEHAqCAMIACAQExCzAJBgUrDgMCGgUAMIAGCSqGSIb3DQEHAQAAoIIJIjCCAnow
+ggHjoAMCAQICARcwDQYJKoZIhvcNAQEFBQAwUzELMAkGA1UEBhMCVVMxHDAaBgNVBAoTE0VxdWlm
+YXggU2VjdXJlIEluYy4xJjAkBgNVBAMTHUVxdWlmYXggU2VjdXJlIGVCdXNpbmVzcyBDQS0xMB4X
+DTAyMDQxODE1MjkzN1oXDTIwMDQxMzE1MjkzN1owTjELMAkGA1UEBhMCVVMxFjAUBgNVBAoTDUdl
+b1RydXN0IEluYy4xJzAlBgNVBAMTHkdlb1RydXN0IFRydWUgQ3JlZGVudGlhbHMgQ0EgMjCBnzAN
+BgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAspcspZISpYX/aJqWoYcSyyGqFby3OvsepRzLRU0ENDJR
+wJo7DwFpirRFOUQkTkKXsY6BQzX/CeCRrn9i4ny5gcXuI2JSyrSmDwobbwl52n5cPEbHGcebybWd
+KfAf8vvkxYUnTmDZPtt2ob5RNpJTeTiq9MpNCB/5G7Ocr1hEljcCAwEAAaNjMGEwDgYDVR0PAQH/
+BAQDAgHGMB0GA1UdDgQWBBQig0tNIAIMMfR8WrAaTRXIeF0RSTAPBgNVHRMBAf8EBTADAQH/MB8G
+A1UdIwQYMBaAFEp4MlIR21kWNl7fwRQ2QGpHfEyhMA0GCSqGSIb3DQEBBQUAA4GBACmw3z+sLsLS
+fAfdECQJPfiZFzJzSPQKLwY7vHnNWH2lAKYECbtAFHBpdyhSPkrj3KghXeIJnKyMFjsK6xd1k1Yu
+wMXrauUH+HIDuZUg4okBwQbhBTqjjEdo/cCHILQsaLeU2kM+n5KKrpb0uvrHrocGffRMrWhz9zYB
+lxoq0/EEMIICgjCCAeugAwIBAgIBBDANBgkqhkiG9w0BAQQFADBTMQswCQYDVQQGEwJVUzEcMBoG
+A1UEChMTRXF1aWZheCBTZWN1cmUgSW5jLjEmMCQGA1UEAxMdRXF1aWZheCBTZWN1cmUgZUJ1c2lu
+ZXNzIENBLTEwHhcNOTkwNjIxMDQwMDAwWhcNMjAwNjIxMDQwMDAwWjBTMQswCQYDVQQGEwJVUzEc
+MBoGA1UEChMTRXF1aWZheCBTZWN1cmUgSW5jLjEmMCQGA1UEAxMdRXF1aWZheCBTZWN1cmUgZUJ1
+c2luZXNzIENBLTEwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAM4vGbwXt3fek6lfWg0XTzQa
+DJj0ItlZ1MRoRvC0NcWFAyDGr0WlIVFFQesWWDYyb+JQYmT5/VGcqiTZ9J2DKocKIdMSODRsjQBu
+WqDZQu4aIZX5UkxVWsUPOE9G+m34LjXWHXzr4vCwdYDIqROsvojvOm6rXyo4YgKwEnv+j6YDAgMB
+
+------=_NextPart_000_0426_01C26EBD.8DF911E0--
+
+--==_15304473447567@buffy.jpci.net==_--
+
+
+
+
+
+From fork-admin@xent.com  Thu Sep  5 11:31:38 2002
+Return-Path: <fork-admin@xent.com>
+Delivered-To: yyyy@localhost.example.com
+Received: from localhost (jalapeno [127.0.0.1])
+	by jmason.org (Postfix) with ESMTP id 62B7916F72
+	for <jm@localhost>; Thu,  5 Sep 2002 11:28:44 +0100 (IST)
+Received: from jalapeno [127.0.0.1]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Thu, 05 Sep 2002 11:28:44 +0100 (IST)
+Received: from xent.com ([64.161.22.236]) by dogma.slashnull.org
+    (8.11.6/8.11.6) with ESMTP id g854v0Z04855 for <jm@jmason.org>;
+    Thu, 5 Sep 2002 05:57:01 +0100
+Received: from lair.xent.com (localhost [127.0.0.1]) by xent.com (Postfix)
+    with ESMTP id 528BA294248; Wed,  4 Sep 2002 21:54:03 -0700 (PDT)
+Delivered-To: fork@example.com
+Received: from relay.pair.com (relay1.pair.com [209.68.1.20]) by xent.com
+    (Postfix) with SMTP id A2B1E2940AA for <FoRK@xent.com>; Wed,
+    4 Sep 2002 21:53:54 -0700 (PDT)
+Received: (qmail 69458 invoked from network); 5 Sep 2002 04:56:26 -0000
+Received: from adsl-63-196-1-72.dsl.snfc21.pacbell.net (HELO golden)
+    (63.196.1.72) by relay1.pair.com with SMTP; 5 Sep 2002 04:56:26 -0000
+X-Pair-Authenticated: 63.196.1.72
+Message-Id: <02ff01c25498$9695d840$640a000a@golden>
+From: "Gordon Mohr" <gojomo@usa.net>
+To: "FoRK" <FoRK@xent.com>
+References: <AMEPKEBLDJJCCDEJHAMIIECDFGAA.ejw@cse.ucsc.edu>
+    <DAV16XoivCNoMKrwDVT0000bc1e@hotmail.com>
+Subject: Re: CD player UI for toddlers
+MIME-Version: 1.0
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-Msmail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-Mimeole: Produced By Microsoft MimeOLE V6.00.2600.0000
+Sender: fork-admin@xent.com
+Errors-To: fork-admin@xent.com
+X-Beenthere: fork@example.com
+X-Mailman-Version: 2.0.11
+Precedence: bulk
+List-Help: <mailto:fork-request@xent.com?subject=help>
+List-Post: <mailto:fork@example.com>
+List-Subscribe: <http://xent.com/mailman/listinfo/fork>, <mailto:fork-request@xent.com?subject=subscribe>
+List-Id: Friends of Rohit Khare <fork.xent.com>
+List-Unsubscribe: <http://xent.com/mailman/listinfo/fork>,
+    <mailto:fork-request@xent.com?subject=unsubscribe>
+List-Archive: <http://xent.com/pipermail/fork/>
+Date: Wed, 4 Sep 2002 21:56:24 -0700
+X-Spam-Status: No, hits=-6.7 required=7.0
+	tests=INVALID_MSGID,KNOWN_MAILING_LIST,QUOTED_EMAIL_TEXT,
+	      REFERENCES,SPAM_PHRASE_00_01,TO_LOCALPART_EQ_REAL,
+	      USER_AGENT_OE
+	version=2.50-cvs
+X-Spam-Level: 
+
+Mr Fork writes:
+  Jim Whitehead writes:
+> > For toddlers, pressing play must cause the music to start immediately,
+> > within half a second, for the toddler to get the causality and not press
+> the
+> > button multiple times.
+> Or some sound indicating that the music will start real soon now.
+
+A tonal countdown would be nice.
+
+> > What would the ideal toddler CD player be like? It would immediately start
+> > playing a CD after it was loaded.
+> It'd be an MP3 player with solid state storage... instant on.
+
+Hmm. Seems like every CD player should include the
+capability to rip, encode, and cache the last few CDs 
+inserted. 
+
+Playback would then never need to face seek delays... 
+after the initial ripping, the only use of the laser 
+pickup would be recognizing which CD is inserted --
+which might be doable faster than a seek-and-start-at-
+first-track operation.
+
+You could also take the CD out while it is "playing".
+
+Hmm. If the CD is still in the cache, maybe you don't
+even have to insert it. Or choose it from a step-through
+UI. Instead, you just wave it at an electronic eye of
+some sort... and the player recognizes it from the 
+silkscreening. Kids would like that. "Play this," they'd
+say, facing the CD at the player, and the player would
+start immediately.
+
+- Gordon
+
+
+
+
+
+
+From 0xdeadbeef-request@petting-zoo.net  Mon Aug 19 11:00:08 2002
+Return-Path: <0xdeadbeef-request@petting-zoo.net>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id C078143C4C
+	for <jm@localhost>; Mon, 19 Aug 2002 05:51:50 -0400 (EDT)
+Received: from phobos [127.0.0.1]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Mon, 19 Aug 2002 10:51:50 +0100 (IST)
+Received: from petting-zoo.net (IDENT:postfix@petting-zoo.net
+    [64.166.12.219]) by dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id
+    g7IIjd619705 for <jm-deadbeef@jmason.org>; Sun, 18 Aug 2002 19:45:40 +0100
+Received: by petting-zoo.net (Postfix, from userid 1004) id 45CE1EA4B;
+    Sun, 18 Aug 2002 11:31:50 -0700 (PDT)
+Old-Return-Path: <gkm@petting-zoo.net>
+Delivered-To: 0xdeadbeef@petting-zoo.net
+Received: from petting-zoo.net (localhost [127.0.0.1]) by petting-zoo.net
+    (Postfix) with ESMTP id 175E2EAE4; Sun, 18 Aug 2002 11:31:24 -0700 (PDT)
+From: gkm@petting-zoo.net (glen mccready)
+To: 0xdeadbeef@petting-zoo.net
+Cc: bostic@bostic.com
+Subject: New Medications.
+Date: Sun, 18 Aug 2002 11:31:21 -0700
+Sender: gkm@petting-zoo.net
+Message-Id: <20020818183124.175E2EAE4@petting-zoo.net>
+Resent-Message-Id: <1Jmwk.A.kuD.Sg-X9@petting-zoo.net>
+Resent-From: 0xdeadbeef@petting-zoo.net
+X-Mailing-List: <0xdeadbeef@petting-zoo.net> archive/latest/522
+X-Loop: 0xdeadbeef@petting-zoo.net
+List-Post: <mailto:0xdeadbeef@petting-zoo.net>
+List-Help: <mailto:0xdeadbeef-request@petting-zoo.net?subject=help>
+List-Subscribe: <mailto:0xdeadbeef-request@petting-zoo.net?subject=subscribe>
+List-Unsubscribe: <mailto:0xdeadbeef-request@petting-zoo.net?subject=unsubscribe>
+Precedence: list
+Resent-Sender: 0xdeadbeef-request@petting-zoo.net
+Resent-Date: Sun, 18 Aug 2002 11:31:50 -0700 (PDT)
+
+
+Forwarded-by: Rob Windsor <windsor@warthog.com>
+Forwarded-by: "Rich Holland" <holland@guidancetech.com>
+Forwarded-by: Diane <djbscm@interkan.net>
+
+S t . M o m ' s W o r t
+Plant extract that treats mom's depression by rendering
+preschoolers unconscious for up to six hours.
+
+E m p t y N e s t r o g e n
+Highly effective suppository that eliminates melancholy by
+enhancing the memory of how awful they were as teenagers and
+how you couldn't wait till they moved out.
+
+P e p t o b i m b o
+Liquid silicone for single women. Two full cups swallowed
+before an evening out increases breast size, decreases
+intelligence, and improves flirting.
+
+D u m e r o l
+When taken with Peptobimbo, can cause dangerously low I.Q.
+causing enjoyment of country western music.
+
+F l i p i t o r
+Increases life expectancy of commuters by controlling road
+rage and the urge to flip off other drivers.
+
+A n t i b o y o t i c s
+When administered to teenage girls, is highly effective in
+improving grades, freeing up phone lines, and reducing money
+spent on make-up.
+
+M e n i c i l l i n
+Potent antiboyotic for older women. Increases resistance to
+such lines as, "You make me want to be a better person ... can
+we get naked now?"
+
+B u y a g r a
+Injectable stimulant taken prior to shopping. Increases
+potency and duration of spending spree.
+
+E x t r a S t r e n g t h B u y-O n e-A l l
+When combined with Buyagra, can cause an indiscriminate
+buying frenzy so severe the victim may even come home with a
+Donnie Osmond CD or a book by Dr. Laura.
+
+J a c k A s s p i r i n
+Relieves the headache caused by a man who can't remember your
+birthday, anniversary or phone number.
+
+A n t i - t a l k s i d e n t
+A spray carried in a purse or wallet to be used on anyone too
+eager to share their life stories with total strangers.
+
+R a g a m e t
+When administered to a husband, provides the same irritation
+as ragging on him all weekend, saving the wife the time and
+trouble of doing it herself.
+
+
+
+
+
+From rssfeeds@jmason.org  Thu Sep 26 11:03:32 2002
+Return-Path: <rssfeeds@spamassassin.taint.org>
+Delivered-To: yyyy@localhost.spamassassin.taint.org
+Received: from localhost (jalapeno [127.0.0.1])
+	by jmason.org (Postfix) with ESMTP id 839ED16F16
+	for <jm@localhost>; Thu, 26 Sep 2002 11:03:31 +0100 (IST)
+Received: from jalapeno [127.0.0.1]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Thu, 26 Sep 2002 11:03:31 +0100 (IST)
+Received: from dogma.slashnull.org (localhost [127.0.0.1]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g8Q81VC06461 for
+    <jm@jmason.org>; Thu, 26 Sep 2002 09:01:31 +0100
+Message-Id: <200209260801.g8Q81VC06461@dogma.slashnull.org>
+To: yyyy@spamassassin.taint.org
+From: scripting <rssfeeds@spamassassin.taint.org>
+Subject: John Robb: "Yesterday, AT&T upgraded my cable box to a digital
+    system."
+Date: Thu, 26 Sep 2002 08:01:31 -0000
+Content-Type: text/plain; encoding=utf-8
+
+URL: http://scriptingnews.userland.com/backissues/2002/09/25#When:5:24:45AM
+Date: Wed, 25 Sep 2002 12:24:45 GMT
+
+John Robb[1]: "Yesterday, AT&T upgraded my cable box to a digital system."
+
+[1] http://jrobb.userland.com/2002/09/25.html#a2595
+
+
+
+
+
+From exmh-workers-admin@redhat.com  Fri Aug 23 11:04:57 2002
+Return-Path: <exmh-workers-admin@example.com>
+Delivered-To: zzzz@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id 2E45844162
+	for <zzzz@localhost>; Fri, 23 Aug 2002 06:03:56 -0400 (EDT)
+Received: from phobos [127.0.0.1]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for zzzz@localhost (single-drop); Fri, 23 Aug 2002 11:03:56 +0100 (IST)
+Received: from listman.example.com (listman.example.com [66.187.233.211]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g7MKYqZ23456 for
+    <zzzz-exmh@example.com>; Thu, 22 Aug 2002 21:34:52 +0100
+Received: from listman.example.com (localhost.localdomain [127.0.0.1]) by
+    listman.redhat.com (Postfix) with ESMTP id CAAE640F2B; Thu, 22 Aug 2002
+    16:31:34 -0400 (EDT)
+Delivered-To: exmh-workers@listman.example.com
+Received: from int-mx1.corp.example.com (int-mx1.corp.example.com
+    [172.16.52.254]) by listman.redhat.com (Postfix) with ESMTP id DB93E40EF8
+    for <exmh-workers@listman.redhat.com>; Thu, 22 Aug 2002 16:28:14 -0400
+    (EDT)
+Received: (from mail@localhost) by int-mx1.corp.example.com (8.11.6/8.11.6)
+    id g7MKSBK05009 for exmh-workers@listman.redhat.com; Thu, 22 Aug 2002
+    16:28:11 -0400
+Received: from mx1.example.com (mx1.example.com [172.16.48.31]) by
+    int-mx1.corp.redhat.com (8.11.6/8.11.6) with SMTP id g7MKSBY05005 for
+    <exmh-workers@redhat.com>; Thu, 22 Aug 2002 16:28:11 -0400
+Received: from austin-jump.vircio.com
+    (IDENT:82tsCXFmK++GyOiDHJbs18xfEBERjSkG@jump-austin.vircio.com
+    [192.12.3.99]) by mx1.redhat.com (8.11.6/8.11.6) with SMTP id g7MKDfl14249
+    for <exmh-workers@redhat.com>; Thu, 22 Aug 2002 16:13:41 -0400
+Received: (qmail 24109 invoked by uid 104); 22 Aug 2002 20:28:10 -0000
+Received: from cwg-exmh@DeepEddy.Com by localhost.localdomain with
+    qmail-scanner-0.90 (uvscan: v4.1.60/v4218. . Clean. Processed in 0.366145
+    secs); 22/08/2002 15:28:10
+Received: from deepeddy.vircio.com (@[10.1.2.1]) (envelope-sender
+    <cwg-exmh@DeepEddy.Com>) by austin-jump.vircio.com (qmail-ldap-1.03) with
+    SMTP for <exmh-workers@redhat.com>; 22 Aug 2002 20:28:10 -0000
+Received: (qmail 20300 invoked from network); 22 Aug 2002 20:28:07 -0000
+Received: from localhost (HELO deepeddy.vircio.com)
+    (?KCbAAdDTk0hKfb6XCFGWgd9YDZ2s+oNu?@[127.0.0.1]) (envelope-sender
+    <cwg-exmh@DeepEddy.Com>) by localhost (qmail-ldap-1.03) with SMTP for
+    <exmh-workers@redhat.com>; 22 Aug 2002 20:28:07 -0000
+X-Mailer: exmh version 2.5 07/13/2001 with nmh-1.0.4
+To: Anders Eriksson <aeriksson@fastmail.fm>
+Cc: exmh-workers@example.com
+Subject: Re: CVS report
+In-Reply-To: <20020822182322.64D053F25@milou.dyndns.org>
+References: <20020822182322.64D053F25@milou.dyndns.org>
+X-Url: http://www.DeepEddy.Com/~cwg
+X-Image-Url: http://www.DeepEddy.Com/~cwg/chris.gif
+MIME-Version: 1.0
+Content-Type: multipart/signed;
+    boundary="==_Exmh_267413022P";
+    micalg=pgp-sha1;
+    protocol="application/pgp-signature"
+Content-Transfer-Encoding: 7bit
+Message-Id: <1030048087.20291.TMDA@deepeddy.vircio.com>
+From: Chris Garrigues <cwg-exmh@DeepEddy.Com>
+X-Delivery-Agent: TMDA/0.57
+Reply-To: Chris Garrigues <cwg-dated-1030480087.b12d57@DeepEddy.Com>
+X-Loop: exmh-workers@example.com
+Sender: exmh-workers-admin@example.com
+Errors-To: exmh-workers-admin@example.com
+X-Beenthere: exmh-workers@example.com
+X-Mailman-Version: 2.0.1
+Precedence: bulk
+List-Help: <mailto:exmh-workers-request@example.com?subject=help>
+List-Post: <mailto:exmh-workers@example.com>
+List-Subscribe: <https://listman.example.com/mailman/listinfo/exmh-workers>,
+    <mailto:exmh-workers-request@redhat.com?subject=subscribe>
+List-Id: Discussion list for EXMH developers <exmh-workers.example.com>
+List-Unsubscribe: <https://listman.example.com/mailman/listinfo/exmh-workers>,
+    <mailto:exmh-workers-request@redhat.com?subject=unsubscribe>
+List-Archive: <https://listman.example.com/mailman/private/exmh-workers/>
+Date: Thu, 22 Aug 2002 15:28:05 -0500
+
+--==_Exmh_267413022P
+Content-Type: text/plain; charset=us-ascii
+
+> From:  Anders Eriksson <aeriksson@fastmail.fm>
+> Date:  Thu, 22 Aug 2002 20:23:17 +0200
+>
+> 
+> Oooops!
+> 
+> Doesn't work at all. Got this on startup and on any attempt to change folde
+> r (which fail)
+
+~sigh~  I'd already found that and checked it in....apparently I did so after 
+you checked it out and before you sent this mail...I hoped I was fast enough 
+that you wouldn't see it.
+
+Try again!
+
+Chris
+
+-- 
+Chris Garrigues                 http://www.DeepEddy.Com/~cwg/
+virCIO                          http://www.virCIO.Com
+716 Congress, Suite 200
+Austin, TX  78701		+1 512 374 0500
+
+  World War III:  The Wrong-Doers Vs. the Evil-Doers.
+
+
+
+
+--==_Exmh_267413022P
+Content-Type: application/pgp-signature
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.0.6 (GNU/Linux)
+Comment: Exmh version 2.2_20000822 06/23/2000
+
+iD8DBQE9ZUlVK9b4h5R0IUIRAr4LAJ9Mhzgw03dF2qiyqtMks72364uaqwCeJxp1
+23jNAVlrHHIDRMvMPXnfzoE=
+=HErg
+-----END PGP SIGNATURE-----
+
+--==_Exmh_267413022P--
+
+
+
+_______________________________________________
+Exmh-workers mailing list
+Exmh-workers@redhat.com
+https://listman.redhat.com/mailman/listinfo/exmh-workers
+
+
+
+
+From ilug-admin@linux.ie  Mon Sep  2 13:13:50 2002
+Return-Path: <ilug-admin@linux.ie>
+Delivered-To: zzzz@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id 6A0CD47C7C
+	for <zzzz@localhost>; Mon,  2 Sep 2002 07:43:01 -0400 (EDT)
+Received: from phobos [127.0.0.1]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for zzzz@localhost (single-drop); Mon, 02 Sep 2002 12:43:01 +0100 (IST)
+Received: from lugh.tuatha.org (root@lugh.tuatha.org [194.125.145.45]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g82Am8Z29220 for
+    <zzzz-ilug@spamassassin.taint.org>; Mon, 2 Sep 2002 11:48:08 +0100
+Received: from lugh (root@localhost [127.0.0.1]) by lugh.tuatha.org
+    (8.9.3/8.9.3) with ESMTP id LAA31421; Mon, 2 Sep 2002 11:47:10 +0100
+X-Authentication-Warning: lugh.tuatha.org: Host root@localhost [127.0.0.1]
+    claimed to be lugh
+Received: from relay05.indigo.ie (relay05.indigo.ie [194.125.133.229]) by
+    lugh.tuatha.org (8.9.3/8.9.3) with SMTP id LAA31379 for <ilug@linux.ie>;
+    Mon, 2 Sep 2002 11:46:27 +0100
+Received: (qmail 97613 messnum 1200606 invoked from
+    network[194.125.130.10/unknown]); 2 Sep 2002 10:46:25 -0000
+Received: from unknown (HELO win2000) (194.125.130.10) by
+    relay05.indigo.ie (qp 97613) with SMTP; 2 Sep 2002 10:46:25 -0000
+Reply-To: <macarthy@iol.ie>
+From: "Justin MacCarthy" <macarthy@iol.ie>
+To: "Dermot Daly" <dermot.daly@itsmobile.com>
+Cc: "Ilug@Linux.Ie" <ilug@linux.ie>
+Subject: RE: [ILUG] What HOWTOs for SOHO system
+Date: Mon, 2 Sep 2002 11:46:57 +0100
+Message-Id: <OFEGLPGPCHPACFLJPAILKEICECAA.macarthy@iol.ie>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3 (Normal)
+X-Msmail-Priority: Normal
+X-Mailer: Microsoft Outlook IMO, Build 9.0.2416 (9.0.2911.0)
+In-Reply-To: <CD1F3D770345B24D8ACC7824F0B2D815059594@athens.itsmobile.com>
+X-Mimeole: Produced By Microsoft MimeOLE V5.50.4910.0300
+Importance: Normal
+Sender: ilug-admin@linux.ie
+Errors-To: ilug-admin@linux.ie
+X-Mailman-Version: 1.1
+Precedence: bulk
+List-Id: Irish Linux Users' Group <ilug.linux.ie>
+X-Beenthere: ilug@linux.ie
+
+Hi Dermot, if have a look at one of the dists. like www.smoothwall.org, it
+will save you lots of time and effort, and should do eveything you want.
+
+Justin
+
+> -----Original Message-----
+> From: ilug-admin@linux.ie [mailto:ilug-admin@linux.ie]On Behalf Of
+> Dermot Daly
+> Sent: Monday, September 02, 2002 11:46 AM
+> To: ilug@linux.ie
+> Subject: [ILUG] What HOWTOs for SOHO system
+>
+>
+> Hi All,
+> I'm trying to set up the following:
+>
+> 1. A Linux server running with a modem for internet connectivity and an
+> ethernet card for LAN connectivity
+> 2. Other LAN pcs with ethernet cards, using the Linux server for
+> DNS/DHCP etc.
+>
+> Basically, I want to route any non LAN traffic through the ppp0.
+>
+> I've got some of the way, but like a similar post earlier about modem
+> problems, when I am connected to the internet with eht0 up, the routing
+> is all incorrect and noting goes out through ppp0 (eh0 must be the
+> default route or something).
+>
+> Is there standard "out of the box" Linux tools that will carry out
+> portmapping on behalf of the LAN PCs ?  (I'm planning on non routable
+> addresses 192.168.x.x for the LAN, routed outwards via the ppp0
+> interface).
+>
+> Can someone point me at the right HOWTOs or routing documentation I need
+> to follow ?
+> Thanks,
+> Dermot.
+>
+> --
+> Irish Linux Users' Group: ilug@linux.ie
+> http://www.linux.ie/mailman/listinfo/ilug for (un)subscription
+> information.
+> List maintainer: listmaster@linux.ie
+>
+>
+>
+
+
+-- 
+Irish Linux Users' Group: ilug@linux.ie
+http://www.linux.ie/mailman/listinfo/ilug for (un)subscription information.
+List maintainer: listmaster@linux.ie
+
+
+
+
