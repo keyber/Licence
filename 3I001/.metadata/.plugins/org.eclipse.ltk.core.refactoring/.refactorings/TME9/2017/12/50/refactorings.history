@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename field &apos;e&apos; in &apos;Cote&apos; to &apos;mExecutorService&apos;&#x0A;- Original project: &apos;TME9&apos;&#x0A;- Original element: &apos;Cote.e&apos;&#x0A;- Renamed element: &apos;Cote.mExecutorService&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" delegate="false" deprecate="false" description="Rename field &apos;e&apos;" flags="589826" getter="false" id="org.eclipse.jdt.ui.rename.field" input="/src&lt;{Cote.java[Cote^e" name="mExecutorService" references="true" setter="false" stamp="1513176891610" textual="false" version="1.0"/>
+</session>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;e&apos; in &apos;Test.main(...)&apos; to &apos;ens&apos;&#x0A;- Original project: &apos;TME7&apos;&#x0A;- Original element: &apos;Test.main(String[]).e&apos;&#x0A;- Renamed element: &apos;e&apos;&#x0A;- Update references to refactored element" description="Rename local variable &apos;e&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;{Test.java[Test~main~\[QString;@e!66!105!81!81!QEnsembleDonnee;!0!false" name="ens" references="true" stamp="1510769714819" version="1.0"/>
+</session>

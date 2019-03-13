@@ -1,0 +1,59 @@
+/*BEROUKHIM THIRIAT*/
+import java.util.concurrent.BrokenBarrierException;
+import java.util.concurrent.CyclicBarrier;
+
+public class GroupeClients {
+	static int nbGroupe;
+	int numeroTable=-1;
+	int id, nbPers;
+	Thread[] t;
+	
+	Restaurant restaurant;
+	
+	public GroupeClients(int nb, Restaurant r) {
+		id=nbGroupe++;
+		nbPers=nb;
+		restaurant=r;
+		barrier = new CyclicBarrier(nbPers);
+		
+		t=new Thread[nbPers];
+
+		for (int i = 0; i < t.length; i++) {
+			t[i]=new Thread(new Client(this, r));
+		}
+		for (int i = 0; i < t.length; i++) {
+			t[i].start();
+		}
+	}
+
+	public synchronized void reserver(Client c) throws InterruptedException {
+		
+		if(Thread.interrupted()){
+			System.out.println("interrupted");
+			throw new InterruptedException();
+		}
+		
+		if(numeroTable!=-1){
+			System.out.println("dejà reservé");
+			return;
+		}
+		
+		numeroTable = restaurant.reserver(this);
+		System.out.println(c+" "+id+" réserve "+numeroTable);
+		
+		if(numeroTable==-1){
+			System.out.println(c+" Pas de place pour "+id);
+			for (int i = 0; i < t.length; i++) {
+				t[i].interrupt();
+			}
+			throw new InterruptedException();
+		}
+		
+	}
+	
+	CyclicBarrier barrier;
+	public void barriereTousArrives() throws InterruptedException, BrokenBarrierException{
+		if(barrier.await()==0)	//dernier
+			System.out.println(id+" tous arrivés");
+	}
+}
