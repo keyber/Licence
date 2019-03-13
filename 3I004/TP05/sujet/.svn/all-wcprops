@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/sesi-almo/!svn/ver/193/soft/tp05/sujet
+END
+reset.s
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/sesi-almo/!svn/ver/116/soft/tp05/sujet/reset.s
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/sesi-almo/!svn/ver/116/soft/tp05/sujet/main.c
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/sesi-almo/!svn/ver/116/soft/tp05/sujet/config.h
+END
+seg.ld
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/sesi-almo/!svn/ver/116/soft/tp05/sujet/seg.ld
+END
+sys.ld
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/sesi-almo/!svn/ver/116/soft/tp05/sujet/sys.ld
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/sesi-almo/!svn/ver/215/soft/tp05/sujet/Makefile
+END
+app.ld
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/sesi-almo/!svn/ver/116/soft/tp05/sujet/app.ld
+END

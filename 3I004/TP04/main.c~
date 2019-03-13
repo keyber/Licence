@@ -1,0 +1,21 @@
+#include <stdio.h>
+
+__attribute__((constructor)) void main()
+{
+    char byte;
+    char str[] = "H3110 W0R1D\n";
+
+    while(1){
+      tty_puts("0");
+    	tty_puts(str);
+	tty_puts("1");
+	tty_getc(&byte);
+	tty_puts("2");
+	if(byte == 'q')
+		exit();
+	tty_puts("3");
+	}
+tty_puts("4");
+    exit();
+}
+

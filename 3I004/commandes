@@ -1,0 +1,1 @@
+mipsel-xspim-elf-gcc -fomit-frame-pointer -ffreestanding -mips32 -S exemple.c

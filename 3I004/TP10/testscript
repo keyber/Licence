@@ -1,0 +1,8 @@
+#!/bin/bash
+
+	sed -i "10s/.*/#define NB_PROCS    $1/" config.h
+	make clean
+	make
+	simul_almo_generic -SYS sys.bin -APP app.bin -NPROCS $1
+
+

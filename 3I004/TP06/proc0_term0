@@ -1,0 +1,77 @@
+[20hIDCT thread is alive!
+IDCT processing block 0/36
+IDCT: 0 blocks in 66671 cycles
+IDCT processing block 1/36
+IDCT: 1 blocks in 66671 cycles
+IDCT processing block 2/36
+IDCT: 2 blocks in 66620 cycles
+IDCT processing block 3/36
+IDCT: 3 blocks in 66671 cycles
+IDCT processing block 4/36
+IDCT: 4 blocks in 66671 cycles
+IDCT processing block 5/36
+IDCT: 5 blocks in 66671 cycles
+IDCT processing block 6/36
+IDCT: 6 blocks in 66671 cycles
+IDCT processing block 7/36
+IDCT: 7 blocks in 66671 cycles
+IDCT processing block 8/36
+IDCT: 8 blocks in 66620 cycles
+IDCT processing block 9/36
+IDCT: 9 blocks in 66671 cycles
+IDCT processing block 10/36
+IDCT: 10 blocks in 66671 cycles
+IDCT processing block 11/36
+IDCT: 11 blocks in 66671 cycles
+IDCT processing block 12/36
+IDCT: 12 blocks in 66671 cycles
+IDCT processing block 13/36
+IDCT: 13 blocks in 66671 cycles
+IDCT processing block 14/36
+IDCT: 14 blocks in 66620 cycles
+IDCT processing block 15/36
+IDCT: 15 blocks in 66671 cycles
+IDCT processing block 16/36
+IDCT: 16 blocks in 66671 cycles
+IDCT processing block 17/36
+IDCT: 17 blocks in 66671 cycles
+IDCT processing block 18/36
+IDCT: 18 blocks in 66671 cycles
+IDCT processing block 19/36
+IDCT: 19 blocks in 66671 cycles
+IDCT processing block 20/36
+IDCT: 20 blocks in 66620 cycles
+IDCT processing block 21/36
+IDCT: 21 blocks in 66671 cycles
+IDCT processing block 22/36
+IDCT: 22 blocks in 66671 cycles
+IDCT processing block 23/36
+IDCT: 23 blocks in 66671 cycles
+IDCT processing block 24/36
+IDCT: 24 blocks in 66671 cycles
+IDCT processing block 25/36
+IDCT: 25 blocks in 66671 cycles
+IDCT processing block 26/36
+IDCT: 26 blocks in 66620 cycles
+IDCT processing block 27/36
+IDCT: 27 blocks in 66671 cycles
+IDCT processing block 28/36
+IDCT: 28 blocks in 66671 cycles
+IDCT processing block 29/36
+IDCT: 29 blocks in 66671 cycles
+IDCT processing block 30/36
+IDCT: 30 blocks in 66671 cycles
+IDCT processing block 31/36
+IDCT: 31 blocks in 66671 cycles
+IDCT processing block 32/36
+IDCT: 32 blocks in 66620 cycles
+IDCT processing block 33/36
+IDCT: 33 blocks in 66671 cycles
+IDCT processing block 34/36
+IDCT: 34 blocks in 66671 cycles
+IDCT processing block 35/36
+IDCT: 35 blocks in 66671 cycles
++++ IDCT total time = 3340534 cycles
+
+
+!!! Exit Processor 0x000 !!!
