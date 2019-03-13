@@ -1,0 +1,4 @@
+1519380617913	Rename type 'HashMultiSet'
+1519380738494	Rename type 'HashMSet'
+1519385154250	Introduce parameter for 'HashMultiSetIterator'
+1519385347626	Rename local variable 'o'

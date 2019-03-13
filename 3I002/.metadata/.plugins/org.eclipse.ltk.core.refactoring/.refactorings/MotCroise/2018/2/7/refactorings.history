@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete 6 elements from project &apos;MotCroise&apos;&#x0A;- Original project: &apos;MotCroise&apos;&#x0A;- Original elements:&#x0A;     MotCroise/src/tme1&#x0A;     MotCroise/src/tme1.test&#x0A;     MotCroise/src/tme2&#x0A;     MotCroise/src/tme2.test&#x0A;     MotCroise/src/tme3.csp&#x0A;     MotCroise/src/tme3.test&#x0A;- Delete subpackages" description="Delete elements" element1="/src&lt;tme3.test" element2="/src&lt;tme3" element3="/src&lt;tme3.csp" element4="/src&lt;tme3" element5="/src&lt;tme2.test" element6="/src&lt;tme2" element7="/src&lt;tme1.test" element8="/src&lt;tme1" elements="8" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1518774218626" subPackages="true" version="1.0"/>
+</session>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Extract local variable &apos;clip&apos; from expression &apos;selection.get(i)&apos;&#x0A;- Original project: &apos;PinBoard&apos;&#x0A;- Variable name: &apos;clip&apos;&#x0A;- Destination method: &apos;pobj.pinboard.editor.Selection.toogleSelect()&apos;&#x0A;- Variable expression: &apos;selection.get(i)&apos;&#x0A;- Replace occurrences of expression with variable" description="Extract local variable &apos;clip&apos;" final="false" id="org.eclipse.jdt.ui.extract.temp" input="/src&lt;pobj.pinboard.editor{Selection.java" name="clip" replace="true" selection="816 16" stamp="1522403654745" version="1.0"/>
+</session>

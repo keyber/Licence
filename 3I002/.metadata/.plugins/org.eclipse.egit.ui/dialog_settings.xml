@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="0" key="org.eclipse.egit.ui.internal.clone.GitSelectWizardPageWizardSel"/>
+	<list key="RepositorySelectionPage.UsedUris">
+		<item value="https://stl.algo-prog.info/3506789/Expr.git"/>
+		<item value="https://stl.algo-prog.info/3506789/PinBoard.git"/>
+		<item value="https://stl.algo-prog.info/3506789/MotCroise.git"/>
+		<item value="https://stl.algo-prog.info/3506789/3I002/MotCroise.git"/>
+		<item value="https://stl.algo-prog.info/3506789/MultiSet.git"/>
+	</list>
+	<list key="EGit.KnownHosts">
+		<item value="git.eclipse.org"/>
+		<item value="github.com"/>
+		<item value="bitbucket.org"/>
+		<item value="stl.algo-prog.info"/>
+	</list>
+	<list key="CommitDialog.authorValues">
+		<item value="3506789 &lt;3506789@ppti-14-502-06.ufr-info-p6.jussieu.fr&gt;"/>
+		<item value="3506789 &lt;3506789@ppti-14-307-07.ufr-info-p6.jussieu.fr&gt;"/>
+		<item value="3506789 &lt;3506789@ppti-14-307-08.ufr-info-p6.jussieu.fr&gt;"/>
+		<item value="3506789 &lt;3506789@ppti-14-307-18.ufr-info-p6.jussieu.fr&gt;"/>
+		<item value="3506789 &lt;3506789@ppti-14-307-06.ufr-info-p6.jussieu.fr&gt;"/>
+		<item value="3506789 &lt;3506789@ppti-14-307-11.ufr-info-p6.jussieu.fr&gt;"/>
+	</list>
+	<list key="CommitDialog.committerValues">
+		<item value="3506789 &lt;3506789@ppti-14-502-06.ufr-info-p6.jussieu.fr&gt;"/>
+		<item value="3506789 &lt;3506789@ppti-14-307-07.ufr-info-p6.jussieu.fr&gt;"/>
+		<item value="3506789 &lt;3506789@ppti-14-307-08.ufr-info-p6.jussieu.fr&gt;"/>
+		<item value="3506789 &lt;3506789@ppti-14-307-18.ufr-info-p6.jussieu.fr&gt;"/>
+		<item value="3506789 &lt;3506789@ppti-14-307-06.ufr-info-p6.jussieu.fr&gt;"/>
+		<item value="3506789 &lt;3506789@ppti-14-307-11.ufr-info-p6.jussieu.fr&gt;"/>
+	</list>
+	<section name="org.eclipse.egit.ui.internal.dialogs.RebaseTargetSelectionDialog.dialogBounds">
+		<item value="525" key="DIALOG_WIDTH"/>
+		<item value="1|Cantarell|11.0|0|GTK|1|" key="DIALOG_FONT_NAME"/>
+		<item value="590" key="DIALOG_HEIGHT"/>
+		<item value="0" key="DIALOG_X_ORIGIN"/>
+		<item value="0" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="GitImportWizard">
+		<item value="true" key="GitProjectsImportPage.STORE_NESTED_PROJECTS"/>
+	</section>
+	<section name="org.eclipse.egit.ui.internal.push.PushResultDialog.dialogBounds">
+		<item value="652" key="DIALOG_WIDTH"/>
+		<item value="1|Cantarell|11.0|0|GTK|1|" key="DIALOG_FONT_NAME"/>
+		<item value="477" key="DIALOG_HEIGHT"/>
+		<item value="538" key="DIALOG_X_ORIGIN"/>
+		<item value="269" key="DIALOG_Y_ORIGIN"/>
+		<list key="sashWeights">
+			<item value="600"/>
+			<item value="400"/>
+		</list>
+	</section>
+	<section name="org.eclipse.egit.ui.internal.pull.PullResultDialog.dialogBounds">
+		<item value="1055" key="DIALOG_WIDTH"/>
+		<item value="1|Cantarell|11.0|0|GTK|1|" key="DIALOG_FONT_NAME"/>
+		<item value="460" key="DIALOG_HEIGHT"/>
+		<item value="48" key="DIALOG_X_ORIGIN"/>
+		<item value="244" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="GitCommitMessageComponent">
+		<list key="/users/nfs/Etu9/3506789/3I002/MotCroise/.git">
+			<item value="empty"/>
+		</list>
+	</section>
+	<section name="org.eclipse.egit.ui.internal.staging.StagingView">
+		<item value="500,500" key="STAGING_SASH_FORM_WEIGHT"/>
+		<item value="false" key="sortItemState"/>
+		<item value="695,304" key="HORIZONTAL_SASH_FORM_WEIGHT"/>
+	</section>
+</section>
