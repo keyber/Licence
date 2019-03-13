@@ -1,0 +1,36 @@
+
+SQL*Plus: Release 11.2.0.3.0 Production on Mer. Mars 22 10:57:29 2017
+
+Copyright (c) 1982, 2011, Oracle.  All rights reserved.
+
+
+Connecté à :
+Oracle Database 11g Enterprise Edition Release 11.2.0.1.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+Chargement du fichier login.sql contenu dans le dossier $SQLPATH
+
+UE 3I009
+========
+* Pour utiliser la base tennis, exécuter la commande @tennis
+
+UE 2I009
+========
+* TME 4 : utiliser la base JO_v1 en exécutant @jo_v1
+* TME 5, 6 et 7 : utiliser les bases JO_v2 et Foofle en exécutant @jo_v2 et @foofle
+
+AUTRES COMMANDES
+================
+* Pour vider toute votre base de données exécuter la commande @vider
+SQL> @vider
+vous etes E3506789
+drop table DIST cascade constraints;
+drop table EQUIPEF cascade constraints;
+drop table JOUEUR cascade constraints;
+drop table MATCH cascade constraints;
+drop table SPONSORISE cascade constraints;
+purge recyclebin;
+
+Procédure PL/SQL terminée avec succès.
+
+SQL> 

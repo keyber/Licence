@@ -1,0 +1,4 @@
+select distinct p.nomP
+from sport s, epreuve e, rangEquipe r, pays p
+where e.categorie='Femmes' and e.nomEpreuve='relais 4x6km' and s.nomSp='Biathlon' and r.rang=1
+and e.sid=s.sid and e.epid=r.epid and e.codePays=p.codePays;

@@ -1,0 +1,15 @@
+sqlplus E/E@ora11
+COLUMN nom FORMAT 99999999999999
+COLUMN nom FORMAT A20
+
+
+emacs requete.sql &
+my/sql-oracle
+
+select * from tab
+desc nomtable
+
+
+
+
+

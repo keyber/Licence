@@ -1,0 +1,6 @@
+select * from Athlete;
+COLUMN nom FORMAT A20
+COLUMN prenom FORMAT A17
+COLUMN pays FORMAT A40
+
+select nom, prenom from athlete where pays = 'Inde';

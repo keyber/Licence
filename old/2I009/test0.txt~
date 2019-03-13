@@ -1,0 +1,6 @@
+select * from Joueur;
+
+sqlplus E/E@ora11
+COLUMN nom FORMAT A20
+COLUMN nom FORMAT A20
+COLUMN nom FORMAT A20

@@ -1,0 +1,6 @@
+create table employe(
+primary key(numss as number(15)),
+nome as varchar2(20), prenome as varchar2(20),
+villee as varchar2(9),
+datenais as date
+);
